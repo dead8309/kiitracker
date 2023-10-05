@@ -35,7 +35,7 @@ function DaySection({ day, title }: { day: string, title: string }) {
               <DialogHeader>
                 <DialogTitle>Add Course</DialogTitle>
                 <DialogDescription>
-                  Make changes to your course. Click save when you're done.
+                  Make changes to your course. Click save when you&apos;re done.
                 </DialogDescription>
               </DialogHeader>
               <CourseForm
