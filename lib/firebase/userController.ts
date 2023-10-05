@@ -15,12 +15,18 @@ export const SignInWithGoogle = async (callback: (user: User) => void) => {
     if (!user) {
       return
     }
-    addUserToFireStore(user)
+    await addUserToFireStore(user)
     callback(user)
 }
 
 export const addUserToFireStore = async (user: User) => {
     const userRef = doc(db, "users", user.uid);
+    // return if user already exists
+    const userDoc = await getDoc(userRef);
+    if (userDoc.exists()) {
+        return;
+    }
+    // add user to firestore
     await setDoc(userRef, {
         uid: user.uid,
         lastLogin: new Date()
