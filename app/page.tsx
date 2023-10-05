@@ -3,24 +3,13 @@
 import React, { useEffect } from "react"
 import { redirect, useRouter } from "next/navigation"
 import { useAuthContext } from "@/context/AuthProvider"
-import {
-  UserCredential,
-  browserLocalPersistence,
-  getRedirectResult,
-  setPersistence,
-  signInWithPopup,
-  signInWithRedirect,
-} from "firebase/auth"
-import { Loader2 } from "lucide-react"
 
-import { auth, googleAuthProvider } from "@/lib/firebase"
-import { SignInWithGoogle, addUserToFireStore } from "@/lib/firebase/userController"
+import { SignInWithGoogle } from "@/lib/firebase/userController"
 import { Button } from "@/components/ui/button"
 import {
   Card,
   CardContent,
   CardDescription,
-  CardFooter,
   CardHeader,
   CardTitle,
 } from "@/components/ui/card"
@@ -32,9 +21,8 @@ export default function IndexPage() {
   const { authenticated } = useAuthContext()
   const router = useRouter()
   const handleSignIn = async () => {
-    await SignInWithGoogle(() => {
-      redirect("/dashboard")
-    })
+    await SignInWithGoogle()
+    router.push("/dashboard")
   }
   useEffect(() => {
     if (authenticated) {

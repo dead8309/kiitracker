@@ -1,4 +1,4 @@
-import { User, browserLocalPersistence, getRedirectResult, setPersistence, signInWithRedirect } from "firebase/auth";
+import { User, browserLocalPersistence, getRedirectResult, setPersistence, signInWithPopup, signInWithRedirect } from "firebase/auth";
 import { auth, db, googleAuthProvider } from ".";
 import { doc, getDoc, setDoc } from "firebase/firestore";
 import { CourseWithId } from "@/hooks/useCourses";
@@ -6,17 +6,12 @@ import "@/lib/sort-courses"
 import { randomUUID } from "crypto";
 
 
-export const SignInWithGoogle = async (callback: (user: User) => void) => {
+export const SignInWithGoogle = async () => {
     await setPersistence(auth, browserLocalPersistence)
-    await signInWithRedirect(auth, googleAuthProvider)
-  
-    const result = await getRedirectResult(auth)
-    const user = result?.user
-    if (!user) {
-      return
-    }
+    const result = await signInWithPopup(auth, googleAuthProvider)
+    const user = result.user
     await addUserToFireStore(user)
-    callback(user)
+    return user
 }
 
 export const addUserToFireStore = async (user: User) => {
@@ -81,7 +76,7 @@ export const getUserRoutineById = async (uid: string) => {
     }
     let routine = await getDoc(userRef);
     if (!routine.exists()) {
-        throw new Error("Routine not found");
+        return {}
     }
     return routine.data().routine as {[key: string]: CourseWithId[]};
 }

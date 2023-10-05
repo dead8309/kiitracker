@@ -9,14 +9,14 @@ import { signOut } from "firebase/auth"
 import { auth } from "@/lib/firebase"
 import { useCoursesStore } from "@/hooks/useCourses"
 import { SignInWithGoogle } from "@/lib/firebase/userController"
-import { redirect } from "next/navigation"
+import { useRouter } from "next/navigation"
 
 export default function UserButton() {
     const { user } = useAuthContext();
+    const router = useRouter()
     const handleLogin = async () => {
-      await SignInWithGoogle(() => {
-        redirect("/dashboard")
-      })
+      await SignInWithGoogle()
+      router.push("/dashboard")
     }
   return (
     user ? (
