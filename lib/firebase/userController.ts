@@ -23,6 +23,7 @@ export const addUserToFireStore = async (user: User) => {
     }
     // add user to firestore
     await setDoc(userRef, {
+        email: user.email,
         uid: user.uid,
         lastLogin: new Date()
     }, { merge: true });
