@@ -28,7 +28,7 @@ export default function LoadRoutineDialog({
         <AlertDialogHeader>
           <AlertDialogTitle>Are you absolutely sure?</AlertDialogTitle>
           <AlertDialogDescription>
-            This action will copy your friend's routine in your account. This
+            This action will copy your friend&apos;s routine in your account. This
             will delete your current routine.
           </AlertDialogDescription>
         </AlertDialogHeader>

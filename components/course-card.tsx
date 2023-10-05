@@ -74,7 +74,7 @@ function CourseCard({
             <DialogHeader>
               <DialogTitle>Edit Course</DialogTitle>
               <DialogDescription>
-                Make changes to your course. Click save when you're done.
+                Make changes to your course. Click save when you&apos;re done.
               </DialogDescription>
             </DialogHeader>
             <CourseForm
