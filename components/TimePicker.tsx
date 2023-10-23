@@ -1,7 +1,7 @@
 import { use, useEffect, useState } from "react"
 import { Controller, useFormContext } from "react-hook-form"
 
-import { format24h } from "@/lib/utils"
+import { format12h, format24h } from "@/lib/utils"
 
 import { Input } from "./ui/input"
 import { Label } from "./ui/label"
@@ -18,28 +18,24 @@ export default function TimeRangePicker({ value, onChange }: TimeRangePickerProp
 
   useEffect(() => {
     if (value == "") {
-      setStartTime("")
-      setEndTime("")
+      console.log("value is empty")
       return
     }
+    console.log("value is not empty", value)
     const [start, end] = value.split(" - ")
-    setStartTime(start)
-    setEndTime(end)
+    setStartTime(format12h(start))
+    setEndTime(format12h(end))
   }, [value])
 
   useEffect(() => {
+    console.log("start/stop Time changed")
+    if (startTime == "" || endTime == "") {
+      console.log("start/stop Time is empty")
+      onChange("")
+      return
+    }
     onChange(`${format24h(startTime)} - ${format24h(endTime)}`)
   }, [startTime, endTime])
-
-  const handleStartTimeChange = (
-    event: React.ChangeEvent<HTMLInputElement>
-  ) => {
-    setStartTime(event.target.value)
-  }
-
-  const handleEndTimeChange = (event: React.ChangeEvent<HTMLInputElement>) => {
-    setEndTime(event.target.value)
-  }
 
   return (
     <>
@@ -54,7 +50,7 @@ export default function TimeRangePicker({ value, onChange }: TimeRangePickerProp
               type="time"
               value={startTime}
               onChange={(event) => {
-                handleStartTimeChange(event)
+                setStartTime(event.target.value)
                 field.onChange(event.target.value)
               }}
             />
@@ -73,7 +69,7 @@ export default function TimeRangePicker({ value, onChange }: TimeRangePickerProp
               type="time"
               value={endTime}
               onChange={(event) => {
-                handleEndTimeChange(event)
+                setEndTime(event.target.value)
                 field.onChange(event.target.value)
               }}
             />

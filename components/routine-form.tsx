@@ -19,7 +19,7 @@ const dayOptions = [
 
 export default function RoutineForm() {
   return (
-    <div className="flex flex-col my-2 w-full sm:space-x-0 space-x-2">
+    <div className="my-2 flex w-full flex-col space-x-2 sm:space-x-0">
       {dayOptions.map((day) => (
         <div key={day.value} className="mt-4">
           <DaySection title={day.label} day={day.value} />
