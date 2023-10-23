@@ -7,6 +7,7 @@ import { Loader2Icon } from "lucide-react"
 import { auth } from "@/lib/firebase"
 import { GetUserRoutine } from "@/lib/firebase/userController"
 import { useCoursesStore } from "@/hooks/useCourses"
+import { SecurelyLogginIn } from "@/components/SecurelyLogginIn"
 
 type ContextProps = {
   user: User | null
@@ -58,9 +59,7 @@ export const AuthContextProvider = ({
       }}
     >
       {loading ? (
-        <div className="flex justify-center items-center py-10 font-bold text-5xl gap-4">
-          <Loader2Icon className="animate-spin h-10 w-10 text-foreground" />
-        </div>
+        <SecurelyLogginIn />
       ) : (
         children
       )}

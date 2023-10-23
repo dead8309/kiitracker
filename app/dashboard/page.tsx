@@ -2,29 +2,15 @@
 
 import React, { useEffect, useState } from "react"
 import {
-  useParams,
-  usePathname,
   useRouter,
   useSearchParams,
 } from "next/navigation"
 import { useAuthContext } from "@/context/AuthProvider"
 
 import {
-  GetUserRoutine,
-  SyncUserRoutine,
   getUserRoutineById,
 } from "@/lib/firebase/userController"
 import { useCoursesStore } from "@/hooks/useCourses"
-import {
-  AlertDialog,
-  AlertDialogAction,
-  AlertDialogCancel,
-  AlertDialogContent,
-  AlertDialogDescription,
-  AlertDialogFooter,
-  AlertDialogHeader,
-  AlertDialogTitle,
-} from "@/components/ui/alert-dialog"
 import ShareRoutine from "@/components/ui/share-routine"
 import LoadRoutineDialog from "@/components/LoadRoutineDialog"
 import ProjectDetailsDialog from "@/components/ProjectDetailsDialog"
