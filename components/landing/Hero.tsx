@@ -2,6 +2,8 @@ import React from "react"
 import Image from "next/image"
 import Link from "next/link"
 
+import { cn } from "@/lib/utils"
+
 import { buttonVariants } from "../ui/button"
 
 const HeroSection = () => {
@@ -9,7 +11,9 @@ const HeroSection = () => {
     <section className="flex flex-1">
       <div className="grid grid-cols-1 sm:grid-cols-[6fr_5fr] gap-6 items-start mt-24">
         <div className="flex flex-col gap-9">
-          <h1 className="text-5xl sm:text-6xl font-bold">Not Your Average Schedule Application</h1>
+          <h1 className="text-5xl sm:text-6xl font-bold">
+            Not Your Average Schedule Application
+          </h1>
           <p className="text-muted-foreground text-sm ">
             Escape the monotony of complex class schedules with our app!
             Experience a simplified and personalized approach to managing your
@@ -19,25 +23,27 @@ const HeroSection = () => {
           </p>
 
           <div className="flex space-x-2">
-          <Link
-            href="/dashboard"
-            className={buttonVariants({
-                size: 'lg',
-                className: 'rounded-xl bg-washed-green/washed-green-500 hover:bg-washed-green/washed-green-500/90'
+            <Link
+              href="/dashboard"
+              className={buttonVariants({
+                size: "lg",
+                className:
+                  "rounded-xl bg-washed-green/washed-green-500 hover:bg-washed-green/washed-green-500/90",
               })}
-          >
-            Get Started
-          </Link>
-          <Link
-            href="/download"
-            className={buttonVariants({
-                size: 'lg',
-                className: 'rounded-xl bg-Neutrals/neutrals-11 text-secondary-foreground hover:bg-Neutrals/neutrals-11/80'
-              })}
-          >
-            Download Now
-          </Link>
-          
+            >
+              Get Started
+            </Link>
+            <Link
+              href="/download"
+              className={cn(
+                buttonVariants({
+                  size: "lg",
+                }),
+                "rounded-xl bg-Neutrals/neutrals-11 text-secondary-foreground hover:bg-Neutrals/neutrals-11/80"
+              )}
+            >
+              Download Now
+            </Link>
           </div>
         </div>
         <div className="flex items-center justify-center">
