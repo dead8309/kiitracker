@@ -12,7 +12,6 @@ import { Avatar, AvatarFallback, AvatarImage } from "@/components/ui/avatar"
 import {
   DropdownMenu,
   DropdownMenuContent,
-  DropdownMenuGroup,
   DropdownMenuItem,
   DropdownMenuLabel,
   DropdownMenuSeparator,
@@ -20,7 +19,8 @@ import {
   DropdownMenuTrigger,
 } from "@/components/ui/dropdown-menu"
 
-import { Button, buttonVariants } from "./ui/button"
+import { Button } from "./ui/button"
+import Link from "next/link"
 
 export default function UserButton() {
   const { user } = useAuthContext()
@@ -54,6 +54,9 @@ export default function UserButton() {
           </div>
         </DropdownMenuLabel>
         <DropdownMenuSeparator />
+        <DropdownMenuItem asChild>
+          <Link href='/dashboard'>Dashboard</Link>
+        </DropdownMenuItem>
         <DropdownMenuItem
           onClick={() => {
             signOut(auth)

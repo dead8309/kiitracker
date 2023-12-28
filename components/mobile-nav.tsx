@@ -8,12 +8,19 @@ import { cn } from "@/lib/utils"
 
 import { Button } from "./ui/button"
 import { Sheet, SheetClose, SheetContent, SheetTrigger } from "./ui/sheet"
+import { usePathname } from "next/navigation"
 
 interface MobileNavProps {
   items?: NavItem[]
 }
 
 const MobileNav = ({ items }: MobileNavProps) => {
+  /**
+   * Todo maybe modify this in future and merge with user nav button
+  */
+  const pathname = usePathname()
+  if (pathname !== "/") return null
+
   return (
     <Sheet>
       <SheetTrigger asChild>
