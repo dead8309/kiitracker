@@ -1,11 +1,11 @@
 import React from "react"
 import Image from "next/image"
 import Link from "next/link"
-import { ChevronDown, DownloadIcon, LucideProps } from "lucide-react"
+import { DownloadIcon, LucideProps } from "lucide-react"
 
 import { Card, CardContent } from "../ui/card"
 import { Section } from "./_ui/section"
-import { Button, buttonVariants } from "../ui/button"
+import { buttonVariants } from "../ui/button"
 
 const CircleRing = (props: LucideProps) => (
   <svg

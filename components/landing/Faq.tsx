@@ -21,15 +21,18 @@ const faqs = [
   },
   {
     question: "Does KIITracker work offline?",
-    answer: "Absolutely. KIITracker is designed with an offline-first approach, ensuring uninterrupted access to your schedule even without an internet connection.",
+    answer:
+      "Absolutely. KIITracker is designed with an offline-first approach, ensuring uninterrupted access to your schedule even without an internet connection.",
   },
   {
     question: "Can I share my schedule with friends?",
-    answer: "Certainly. KIITracker supports collaborative scheduling, allowing you to effortlessly share and sync schedules with friends for better coordination.",
+    answer:
+      "Certainly. KIITracker supports collaborative scheduling, allowing you to effortlessly share and sync schedules with friends for better coordination.",
   },
   {
     question: "Is my data secure with KIITracker?",
-    answer: "Absolutely. KIITracker prioritizes user privacy and employs robust encryption measures to ensure the utmost security of your data.",
+    answer:
+      "Absolutely. KIITracker prioritizes user privacy and employs robust encryption measures to ensure the utmost security of your data.",
   },
 ]
 
@@ -40,16 +43,20 @@ const FaqSection = () => {
         <div className="row-start-1 sm:col-start-2">
           <Image src="/assets/faq.png" alt="FAQ" width={450} height={800} />
         </div>
-        <div className="sm:col-start-1">
-          <Accordion collapsible type="single">
-            {faqs.map((faq, index) => (
-              <AccordionItem className=" border-Neutrals/neutrals-11" value={`item-${1 + index}`} key={`faq-${index}`}>
-                <AccordionTrigger className="text-lg">{faq.question}</AccordionTrigger>
-                <AccordionContent>{faq.answer}</AccordionContent>
-              </AccordionItem>
-            ))}
-          </Accordion>
-        </div>
+        <Accordion type="single" className="sm:col-start-1">
+          {faqs.map((faq, index) => (
+            <AccordionItem
+              className=" border-Neutrals/neutrals-11"
+              value={`item-${1 + index}`}
+              key={`faq-${index}`}
+            >
+              <AccordionTrigger className="text-lg">
+                {faq.question}
+              </AccordionTrigger>
+              <AccordionContent>{faq.answer}</AccordionContent>
+            </AccordionItem>
+          ))}
+        </Accordion>
       </div>
     </Section>
   )
