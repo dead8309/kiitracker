@@ -1,56 +1,29 @@
 "use client"
 
 import React, { useEffect } from "react"
-import { redirect, useRouter } from "next/navigation"
+import { redirect } from "next/navigation"
 import { useAuthContext } from "@/context/AuthProvider"
-
-import { SignInWithGoogle } from "@/lib/firebase/userController"
-import { Button } from "@/components/ui/button"
-import {
-  Card,
-  CardContent,
-  CardDescription,
-  CardHeader,
-  CardTitle,
-} from "@/components/ui/card"
-import { Icons } from "@/components/icons"
-import { siteConfig } from "@/config/site"
+import HeroSection from "@/components/landing/Hero"
+import FeatureSection from "@/components/landing/Features"
+import OurProcessSection from "@/components/landing/Process"
+import FaqSection from "@/components/landing/Faq"
+import DownloadSection from "@/components/landing/Download"
 
 
 export default function IndexPage() {
   const { authenticated } = useAuthContext()
-  const router = useRouter()
-  const handleSignIn = async () => {
-    await SignInWithGoogle()
-    router.push("/dashboard")
-  }
   useEffect(() => {
     if (authenticated) {
       redirect("/dashboard")
     }
   }, [])
   return (
-    <div className="w-full min-h-screen flex flex-col justify-center items-center">
-        <Card className="w-[350px]">
-          <CardHeader>
-            <CardTitle>Welcome to KIITracker 🔥!</CardTitle>
-            <CardDescription>
-              KIITracker is a convenient schedule tracking app tailored for KIIT University students.  Get started
-            by loggin in below!
-            </CardDescription>
-          </CardHeader>
-          <CardContent>
-            <Button onClick={handleSignIn}>
-              <Icons.google className="mr-2 h-6 w-6" />
-              Sign In With Google
-            </Button>
-          </CardContent>
-        </Card>
-        <p className="w-[350px] text-xs font-normal p-4">
-          By signing in, you agree to our{" "} 
-          <a className="underline" href={siteConfig.privacyPolicy}>Privacy Policy</a> and{" "}<br />
-          <a className="underline" href={siteConfig.termsAndConditions}>Terms of Service</a>.
-        </p>
+    <div className="container relative flex flex-col gap-20">
+      <HeroSection />
+      <FeatureSection />
+      <OurProcessSection />
+      <FaqSection />
+      <DownloadSection />
     </div>
   )
 }
