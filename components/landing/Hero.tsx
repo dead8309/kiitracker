@@ -20,15 +20,28 @@ const HeroSection = () => {
             Embrace efficiency with our offline-first design for ultimate
             convenience.
           </p>
+
+          <div className="flex space-x-2">
           <Link
             href="/dashboard"
             className={buttonVariants({
                 size: 'lg',
-                className: 'w-32 rounded-xl bg-washed-green/washed-green-500 hover:bg-washed-green/washed-green-500/90'
+                className: 'rounded-xl bg-washed-green/washed-green-500 hover:bg-washed-green/washed-green-500/90'
               })}
           >
-            Download
+            Get Started
           </Link>
+          <Link
+            href="/download"
+            className={buttonVariants({
+                size: 'lg',
+                className: 'rounded-xl bg-Neutrals/neutrals-11 text-secondary-foreground hover:bg-Neutrals/neutrals-11/80'
+              })}
+          >
+            Download Now
+          </Link>
+          
+          </div>
         </div>
         <div className="flex items-center justify-center">
           <div className="w-[40%] blur-[120px] rounded-full h-32 absolute bg-brand/brand-washedGreen -z-10" />
