@@ -39,11 +39,11 @@ const faqs = [
 const FaqSection = () => {
   return (
     <Section id="faq" title="FAQ">
-      <div className="grid grid-cols-1 sm:grid-cols-2 items-center justify-between gap-6">
-        <div className="row-start-1 sm:col-start-2">
+      <div className="grid w-full grid-cols-1 sm:grid-cols-2 items-center gap-6">
+        <div className="row-start-1 sm:col-start-2 flex place-content-end">
           <Image src="/assets/faq.png" alt="FAQ" width={450} height={800} />
         </div>
-        <Accordion type="single" className="sm:col-start-1">
+        <Accordion type="single" className="w-full sm:col-start-1" collapsible>
           {faqs.map((faq, index) => (
             <AccordionItem
               className=" border-Neutrals/neutrals-11"
