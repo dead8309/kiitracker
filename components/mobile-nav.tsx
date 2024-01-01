@@ -25,7 +25,6 @@ const MobileNav = ({ items }: MobileNavProps) => {
     <Sheet>
       <SheetTrigger asChild>
         <Button
-          className="border-Neutrals/neutrals-11 hover:border-Neutrals/neutrals-11/90"
           size="icon"
           variant="outline"
         >
@@ -35,7 +34,7 @@ const MobileNav = ({ items }: MobileNavProps) => {
       </SheetTrigger>
       <SheetContent
         showClose={false}
-        className="z-30 px-4 bg-brand/brand-dark mt-16 h-screen w-screen md:w-[400px] transition-transform duration-500 ease-in-out"
+        className="z-30 px-4 mt-16 h-screen w-screen md:w-[400px] transition-transform duration-500 ease-in-out"
         side="top"
       >
         <nav className="flex flex-col items-center h-full py-6 space-y-6 overflow-y-auto transition-all duration-500 ease-in-out">
@@ -46,7 +45,7 @@ const MobileNav = ({ items }: MobileNavProps) => {
                   <Link
                     href={item.href}
                     className={cn(
-                      "px-6 py-2 text-3xl font-semibold text-white hover:underline hover:underline-offset-4",
+                      "px-6 py-2 text-3xl font-semibold hover:underline hover:underline-offset-4",
                       item.disabled && "cursor-not-allowed opacity-80"
                     )}
                   >
