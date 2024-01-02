@@ -6,7 +6,7 @@ const PrivacyPage = () => {
       <h1 className="text-3xl sm:text-6xl font-bold">Privacy Policy</h1>
       <div className="mt-4 w-full sm:w-2/3">
         <p className="text-lg">
-          In the course of using the KIITracker application ("KIITracker"), we
+          In the course of using the KIITracker application (&quot;KIITracker&quot;), we
           collect certain personal information to provide you with our services.
           This information includes your name, email, and class schedule. It is
           important to clarify that we do not sell or share this information
@@ -14,7 +14,7 @@ const PrivacyPage = () => {
           information, such as device details, IP addresses, and usage patterns,
           to enhance our services and improve user experience. While we
           implement security measures to protect your personal information from
-          unauthorized access or disclosure, it's essential to recognize that no
+          unauthorized access or disclosure, it&apos;s essential to recognize that no
           method of transmission over the internet or electronic storage is
           entirely secure. The App may contain links to third-party websites or
           services. Please be aware that we do not control or take

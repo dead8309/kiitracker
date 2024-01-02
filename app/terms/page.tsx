@@ -6,7 +6,7 @@ const TermsPage = () => {
       <h1 className="text-3xl sm:text-6xl font-bold">Terms of Service</h1>
       <div className="mt-4 w-full sm:w-2/3">
         <p className="text-lg">
-          By utilizing the KIITracker application ("KIITracker"), you hereby
+          By utilizing the KIITracker application (&quot;KIITracker&quot;), you hereby
           acknowledge and agree to comply with the Terms of Service outlined
           herein. In the event that you disagree with any aspect of these terms,
           we kindly request that you refrain from using the App. The use of the
