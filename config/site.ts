@@ -15,7 +15,7 @@ export const siteConfig = {
     },
     {
       title: "Privacy Policy",
-      href: "/privacy",
+      href: "/privacy-policy",
     },
     {
       title: "Download",
@@ -24,7 +24,7 @@ export const siteConfig = {
   ],
   youtube: "https://www.youtube.com/channel/UCh-zsCv66gwHCIbMKLMJmaw",
   github: "https://github.com/dead8309/kiitracker",
-  privacyPolicy: "/",
+  privacyPolicy: "/privacy-policy",
   termsAndConditions: "/",
   footerLinks: [
     {
@@ -32,7 +32,7 @@ export const siteConfig = {
       links: [
         {
           name: "Privacy Policy",
-          href: "/privacy",
+          href: "/privacy-policy",
         },
         {
           name: "Terms of Service",
