@@ -1,6 +1,8 @@
 import { DownloadCard } from "../../components/md-download-card"
 import { getGithubReleases } from "./get-github-releases"
 
+export const dynamic = 'force-dynamic'
+
 export default async function DownloadPage() {
   const releases = await getGithubReleases()
 
