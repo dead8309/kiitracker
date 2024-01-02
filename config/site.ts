@@ -6,20 +6,20 @@ export const siteConfig = {
     "A simple route tracker for KIIT University students to track their routine.",
   mainNav: [
     {
-      title: "Features",
-      href: "/#features",
+      title: "Dashboard",
+      href: "/dashboard",
     },
     {
-      title: "Process",
-      href: "/#our-process",
+      title: "Terms",
+      href: "/terms",
     },
     {
-      title: "Faq",
-      href: "/#faq",
+      title: "Privacy Policy",
+      href: "/privacy",
     },
     {
       title: "Download",
-      href: "/#download",
+      href: "/download",
     },
   ],
   youtube: "https://www.youtube.com/channel/UCh-zsCv66gwHCIbMKLMJmaw",
