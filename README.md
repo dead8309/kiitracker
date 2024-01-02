@@ -1,22 +1,63 @@
-# next-template
+<div align="center">
+    <img src="/assets/logo.png" alt="logo">
+</div>
+<br>
 
-A Next.js 13 template for building apps with Radix UI and Tailwind CSS.
-
-## Usage
-
-```bash
-npx create-next-app -e https://github.com/shadcn/next-template
-```
+<div align="center">
+<h1>KIITracker</h1>
+<h4>Website to manage schedule for kiitracker</h4>
+</div>
 
 ## Features
 
-- Next.js 13 App Directory
-- Radix UI Primitives
+[x] Login With Google
+[x] Create and Sync Schedule 
+[x] Share Schedule with others
+[x] Download kiitracker mobile app
+
+## Tech Stack
+
+- Next.js
 - Tailwind CSS
-- Icons from [Lucide](https://lucide.dev)
-- Dark mode with `next-themes`
-- Tailwind CSS class sorting, merging and linting.
+- Firebase
+- React
+- Zustand
+- Typescript
+
+## Run Locally
+
+Clone the project
+
+```bash
+  git clone https://github.com/dead8309/kiitracker.git
+```
+
+Go to the project directory
+
+```bash
+  cd kiitracker
+```
+
+Install dependencies
+
+```bash
+  npm i
+```
+
+Start the server
+
+```bash
+  npm run dev
+```
+
+## Contributing
+
+Contributions are always welcome!
+
+## Authors
+
+- [@dead8309](https://github.com/dead8309)
 
 ## License
 
-Licensed under the [MIT license](https://github.com/shadcn/ui/blob/main/LICENSE.md).
+[MIT](https://choosealicense.com/licenses/mit/)
