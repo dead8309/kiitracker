@@ -19,7 +19,7 @@ export const Section = ({ id, title, className, children }: SectionProps) => {
       )}
     >
       {title ? (
-        <div className="bg-gradient-to-b from-brand/brand-washedGreen to-white bg-clip-text text-transparent">
+        <div className="bg-gradient-to-b from-brand/brand-washedGreen to-Neutrals/neutrals-5 dark:to-white bg-clip-text text-transparent">
           <h3 className="text-3xl sm:text-4xl font-semibold">{title}</h3>
         </div>
       ) : null}

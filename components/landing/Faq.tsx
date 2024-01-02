@@ -46,7 +46,6 @@ const FaqSection = () => {
         <Accordion type="single" className="w-full sm:col-start-1" collapsible>
           {faqs.map((faq, index) => (
             <AccordionItem
-              className=" border-Neutrals/neutrals-11"
               value={`item-${1 + index}`}
               key={`faq-${index}`}
             >

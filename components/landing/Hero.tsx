@@ -28,7 +28,7 @@ const HeroSection = () => {
               className={buttonVariants({
                 size: "lg",
                 className:
-                  "rounded-xl bg-washed-green/washed-green-500 hover:bg-washed-green/washed-green-500/90",
+                  "rounded-xl",
               })}
             >
               Get Started
@@ -38,8 +38,9 @@ const HeroSection = () => {
               className={cn(
                 buttonVariants({
                   size: "lg",
+                  variant: "secondary",
                 }),
-                "rounded-xl bg-Neutrals/neutrals-11 text-secondary-foreground hover:bg-Neutrals/neutrals-11/80"
+                "rounded-xl"
               )}
             >
               Download Now

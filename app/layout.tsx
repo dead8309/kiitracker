@@ -46,7 +46,7 @@ export default async function RootLayout({ children }: RootLayoutProps) {
             fontDmSans.variable
           )}
         >
-          <ThemeProvider attribute="class" defaultTheme="dark" forcedTheme="dark">
+          <ThemeProvider attribute="class" defaultTheme="dark">
             <div className="relative flex min-h-screen flex-col">
               <AuthContextProvider>
                 <SiteHeader />
