@@ -42,7 +42,7 @@ export default async function RootLayout({ children }: RootLayoutProps) {
         <head />
         <body
           className={cn(
-            "min-h-screen bg-brand/brand-dark font-dm antialiased",
+            "min-h-screen bg-background font-dm antialiased",
             fontDmSans.variable
           )}
         >
