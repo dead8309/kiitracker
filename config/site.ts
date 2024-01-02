@@ -23,7 +23,7 @@ export const siteConfig = {
     },
   ],
   youtube: "https://www.youtube.com/channel/UCh-zsCv66gwHCIbMKLMJmaw",
-  github: "https://github.com/dead8309",
+  github: "https://github.com/dead8309/kiitracker",
   privacyPolicy: "/",
   termsAndConditions: "/",
   footerLinks: [
@@ -31,16 +31,16 @@ export const siteConfig = {
       title: "About us",
       links: [
         {
-          name: "Support",
-          href: "#",
+          name: "Privacy Policy",
+          href: "/privacy",
+        },
+        {
+          name: "Terms of Service",
+          href: "/terms",
         },
         {
           name: "Features",
-          href: "#",
-        },
-        {
-          name: "Terms",
-          href: "#",
+          href: "#features",
         },
       ],
     },
@@ -48,29 +48,18 @@ export const siteConfig = {
       title: "Useful Links",
       links: [
         {
-          name: "Privacy Policy",
-          href: "#",
-        },
-        {
-          name: "Documentation",
-          href: "#",
+          name: "Developer",
+          href: "https://github.com/dead8309",
+          external: true,
         },
         {
           name: "GitHub",
-          href: "#",
-        },
-      ],
-    },
-    {
-      title: "Contact",
-      links: [
-        {
-          name: "Developer",
-          href: "#",
+          href: "https://github.com/dead8309/kiitracker",
+          external: true,
         },
         {
           name: "Faq",
-          href: "#",
+          href: "#faq",
         },
       ],
     },

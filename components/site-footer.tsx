@@ -17,21 +17,21 @@ export function SiteFooter() {
           </span>
         </div>
 
-        <div className="grid grid-cols-2 sm:grid-cols-4 gap-4 md:gap-8">
+        <div className="grid grid-cols-2 sm:grid-cols-3 gap-4 md:gap-8">
           {siteConfig.footerLinks.map((link) => (
             <div key={link.title}>
               <h4 className="text-lg font-semibold">{link.title}</h4>
               <div
                 key={`${link.title}-container`}
-                className="flex w-full flex-col mt-2 -space-y-1"
+                className="flex flex-col mt-2 -space-y-1"
               >
                 {link.links.map((item) => (
                   <a
                     key={`link-${item.name}`}
                     href={item.href}
-                    target="_blank"
+                    {...(item.external && { target: "_blank" })}
                     rel="noreferrer"
-                    className="text-md text-muted-foreground font-medium hover:underline hover:underline-offset-4"
+                    className="w-fit text-md text-muted-foreground font-medium hover:underline hover:underline-offset-4"
                   >
                     {item.name}
                   </a>
