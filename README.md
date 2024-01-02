@@ -10,10 +10,10 @@
 
 ## Features
 
-[x] Login With Google
-[x] Create and Sync Schedule 
-[x] Share Schedule with others
-[x] Download kiitracker mobile app
+- [x] Login With Google
+- [x] Create and Sync Schedule 
+- [x] Share Schedule with others
+- [x] Download kiitracker mobile app
 
 ## Tech Stack
 
