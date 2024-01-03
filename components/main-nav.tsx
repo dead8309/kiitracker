@@ -14,7 +14,7 @@ export function MainNav({ items }: MainNavProps) {
   return (
     <div className="flex gap-6 md:gap-10">
       <Link href="/" className="flex items-center space-x-2 ">
-        <Icons.logo className="w-44" />
+        <Icons.logo className="w-32 sm:w-44" />
       </Link>
       {items?.length ? (
         <nav className="hidden md:flex gap-6">
