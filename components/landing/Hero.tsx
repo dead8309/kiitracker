@@ -1,3 +1,4 @@
+'use client'
 import React from "react"
 import Image from "next/image"
 import Link from "next/link"
@@ -5,8 +6,17 @@ import Link from "next/link"
 import { cn } from "@/lib/utils"
 
 import { buttonVariants } from "../ui/button"
+import { SignInWithGoogle } from "@/lib/firebase/userController"
+import { useAuthContext } from "@/context/AuthProvider"
+import { useRouter } from "next/navigation"
 
 const HeroSection = () => {
+  const { user } = useAuthContext()
+  const router = useRouter()
+  const handleLogin = async () => {
+    await SignInWithGoogle()
+    router.push("/dashboard")
+  }
   return (
     <section className="flex flex-1">
       <div className="grid grid-cols-1 sm:grid-cols-[6fr_5fr] gap-6 items-start mt-24">
@@ -25,6 +35,7 @@ const HeroSection = () => {
           <div className="flex space-x-2">
             <Link
               href="/dashboard"
+              onClick={user ? undefined : handleLogin}
               className={buttonVariants({
                 size: "lg",
                 className:
