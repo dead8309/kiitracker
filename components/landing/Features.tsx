@@ -53,17 +53,7 @@ const FeatureSection = () => {
                 </CardTitle>
               </CardHeader>
               <CardContent>
-                <div className="flex flex-row items-end justify-between">
-                  <Link
-                    href="/dashboard"
-                    className={buttonVariants({
-                      size: "sm",
-                      className:
-                        "mb-44 sm:mb-56 mr-2 text-xs rounded-xl bg-washed-green/washed-green-500 hover:bg-washed-green/washed-green-500/90",
-                    })}
-                  >
-                    Learn More
-                  </Link>
+                <div className="flex flex-row items-end justify-end">
                   <Image
                     className=""
                     src="/assets/feature1.png"
