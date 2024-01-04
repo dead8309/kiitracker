@@ -23,7 +23,7 @@ export const siteConfig = {
     },
   ],
   youtube: "https://www.youtube.com/channel/UCh-zsCv66gwHCIbMKLMJmaw",
-  github: "https://github.com/dead8309/kiitracker",
+  github: "https://github.com/dead8309/kiitracker-app",
   privacyPolicy: "/privacy-policy",
   termsAndConditions: "/",
   footerLinks: [
@@ -54,7 +54,7 @@ export const siteConfig = {
         },
         {
           name: "GitHub",
-          href: "https://github.com/dead8309/kiitracker",
+          href: "https://github.com/dead8309/kiitracker-app",
           external: true,
         },
         {
