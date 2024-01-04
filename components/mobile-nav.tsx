@@ -14,14 +14,12 @@ interface MobileNavProps {
   items?: NavItem[]
 }
 
+/**
+  * Todo maybe modify this in future and merge with user nav button
+  */
 const MobileNav = ({ items }: MobileNavProps) => {
   const [isOpen, setIsOpen] = useState(false)
-  /**
-   * Todo maybe modify this in future and merge with user nav button
-  */
-  const pathname = usePathname()
-  if (pathname !== "/") return null
-
+ 
   return (
     <Sheet onOpenChange={setIsOpen} open={isOpen}>
       <SheetTrigger asChild>
