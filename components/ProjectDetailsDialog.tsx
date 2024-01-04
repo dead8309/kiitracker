@@ -20,7 +20,7 @@ const ProjectDetailsDialog = (props: Props) => {
     return (
       <Dialog>
         <DialogTrigger>
-          <span className="flex items-center px-2 py-1 text-white rounded-md bg-slate-800">
+          <span className="flex items-center px-2 py-1 rounded-md bg-secondary">
             What is this
             <HelpCircle className="w-5 h-5 ml-1" />
           </span>
@@ -58,7 +58,7 @@ const ProjectDetailsDialog = (props: Props) => {
               <hr />
               <p className="my-2 font-semibold">
                 <h4 className="text-base font-semibold">Built with</h4>
-                <div className="grid justify-around grid-cols-3 lg:grid-cols-4 mt-2 gap-y-3">
+                <div className="grid justify-around grid-cols-2 md:grid-cols-3 lg:grid-cols-4 mt-2 gap-y-3">
                     <div className="flex items-center gap-2">
                         <Image
                         alt="firebase"
@@ -94,6 +94,24 @@ const ProjectDetailsDialog = (props: Props) => {
                       height={30}
                     />
                     <span className="">TypeScript</span>
+                  </div>
+                  <div className="flex items-center gap-2">
+                    <Image
+                      alt="zustand"
+                      src="/zustand.png"
+                      width={30}
+                      height={30}
+                    />
+                    <span className="">Zustand</span>
+                  </div>
+                  <div className="flex items-center gap-2">
+                    <Image
+                      alt="shadcn"
+                      src="/shadcn.png"
+                      width={30}
+                      height={30}
+                    />
+                    <span className="">shadcn/ui</span>
                   </div>
                 </div>
               </p>
