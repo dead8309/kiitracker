@@ -28,6 +28,7 @@ import {
 
 const timeSlotOptions = [
   { label: "8:00 AM - 9:00 AM" },
+  { label: "8:20 AM - 9:20 AM" },
   { label: "9:00 AM - 10:00 AM" },
   { label: "9:20 AM - 10:20 AM" },
   { label: "10:00 AM - 11:00 AM" },
