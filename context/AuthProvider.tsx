@@ -59,7 +59,8 @@ export const AuthContextProvider = ({
       }}
     >
       {loading ? (
-        <SecurelyLogginIn />
+        // <SecurelyLogginIn />
+        null
       ) : (
         children
       )}
