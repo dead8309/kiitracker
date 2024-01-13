@@ -27,6 +27,8 @@ import {
 } from "./ui/select"
 
 const timeSlotOptions = [
+  { label: "6:30 AM - 7:30 AM" },
+  { label: "7:30 AM - 8:30 AM" },
   { label: "8:00 AM - 9:00 AM" },
   { label: "8:20 AM - 9:20 AM" },
   { label: "9:00 AM - 10:00 AM" },
