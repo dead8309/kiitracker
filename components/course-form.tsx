@@ -43,6 +43,7 @@ const timeSlotOptions = [
   { label: "12:20 PM - 1:20 PM" },
   { label: "1:00 PM - 2:00 PM" },
   { label: "1:20 PM - 2:20 PM" },
+  { label: "2:00 PM - 3:00 PM" },
   { label: "3:00 PM - 4:00 PM" },
   { label: "4:00 PM - 5:00 PM" },
   { label: "5:00 PM - 6:00 PM" },
