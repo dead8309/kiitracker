@@ -10,19 +10,23 @@ import { useAuthContext } from "@/context/AuthProvider"
 import {
   getUserRoutineById,
 } from "@/lib/firebase/userController"
+
 import { useCoursesStore } from "@/hooks/useCourses"
 import ShareRoutine from "@/components/ui/share-routine"
 import LoadRoutineDialog from "@/components/LoadRoutineDialog"
 import ProjectDetailsDialog from "@/components/ProjectDetailsDialog"
 import RoutineForm from "@/components/routine-form"
 import SyncDataWithFirebaseButton from "@/components/sync-with-google-"
+import DropdownButton from "@/components/DropdownButton"
 
 export default function Dashboard() {
+  
   const router = useRouter()
   const { user } = useAuthContext()
-  const { fetch, reset, addAllCourses } = useCoursesStore()
+  const { fetch, reset, addAllCourses, loadTimetableForCourse } = useCoursesStore()
   const params = useSearchParams()
   const [showLoadRoutineDialog, setShowLoadRoutineDialog] = useState(false)
+  
   useEffect(() => {
     if (params.has("routine")) {
       const routine = params.get("routine")
@@ -53,6 +57,13 @@ export default function Dashboard() {
       }
     })
   }
+
+  // Handle course selection from dropdown
+  const handleCourseSelect = (courseCode: string) => {
+    console.log('Loading timetable for:', courseCode)
+    loadTimetableForCourse(courseCode)
+  }
+
   return (
     <div className="container flex flex-col justify-between mt-2">
       <div className="grid grid-cols-1 md:grid-cols-2 space-y-4 items-center justify-center gap-6">
@@ -61,9 +72,12 @@ export default function Dashboard() {
           onCopyRoutine={handleOnCopyRoutine}
           onOpenChange={(value) => setShowLoadRoutineDialog(value)}
         />
-        <div className="flex items-center">
-          <h2 className="mr-2 text-3xl font-bold tracking-tight">Dashboard</h2>
-          <ProjectDetailsDialog />
+        <div className="flex items-center w-full">
+          <div className="flex">
+            <h2 className="mr-2 text-3xl font-bold tracking-tight">Dashboard</h2>
+            <ProjectDetailsDialog />
+          </div>
+          <DropdownButton onCourseSelect={handleCourseSelect}/>
         </div>
       </div>
       <div className="grid grid-cols-1 md:grid-cols-2 w-full items-center justify-center gap-6 mt-6">

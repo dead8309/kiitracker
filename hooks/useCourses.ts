@@ -6,7 +6,7 @@ import { createJSONStorage, persist } from "zustand/middleware"
 
 import { Course } from "@/lib/course-schema"
 import { GetUserRoutine } from "@/lib/firebase/userController"
-import { any } from "zod"
+import { coursesTimetable } from "@/lib/timetable-data" // Add this import
 
 export type CourseWithId = Course & {
   id: number
@@ -25,6 +25,7 @@ type Actions = {
   editCourse: (id: number, course: Partial<Course>, day: string) => void
   reset: () => void
   addAllCourses: (courses: {[key: string]: CourseWithId[]}) => void
+  loadTimetableForCourse: (courseCode: string) => void 
 }
 
 const initialState: State = {
@@ -111,7 +112,25 @@ export const useCoursesStore = create<State & Actions>()(
           }
         }),
       reset: () => set({ ...initialState }),
-      addAllCourses: (courses) => set({ coursesByDay: courses })
+      addAllCourses: (courses) => set({ coursesByDay: courses }),
+      // Move the loadTimetableForCourse function here, inside the store
+      loadTimetableForCourse: (courseCode) => {
+        const timetable = coursesTimetable[courseCode];
+        if (timetable) {
+          const coursesWithIds: {[key: string]: CourseWithId[]} = {};
+          
+          Object.keys(timetable).forEach(day => {
+            coursesWithIds[day] = timetable[day].map((course, index) => ({
+              ...course,
+              id: Date.now() + index // Generate unique ID
+            }));
+          });
+          
+          set({ coursesByDay: coursesWithIds });
+        } else {
+          console.log(`No timetable found for course: ${courseCode}`);
+        }
+      },
     }),
     {
       name: "courses",
