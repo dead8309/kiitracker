@@ -15,7 +15,7 @@ const Button = ({
   ...props
 }: any) => {
   const baseClasses =
-    "inline-flex items-center justify-center rounded-md text-sm font-medium transition-colors focus:outline-none focus:ring-2 focus:ring-ring disabled:pointer-events-none disabled:opacity-50";
+    "inline-flex items-center justify-center rounded-md text-sm font-medium transition-colors disabled:pointer-events-none disabled:opacity-50";
   const variants: Record<string, string> = {
     default: "bg-primary text-primary-foreground",
     outline: "border border-input bg-background",
@@ -42,7 +42,7 @@ const PopoverTrigger = ({ children, ...props }: any) => (
 const PopoverContent = ({ children, className = "", ...props }: any) => (
   <div
     className={cn(
-      "absolute top-full mt-1 z-50 w-72 rounded-md border bg-gray-800 text-gray-200 shadow-md",
+      "absolute top-full mt-1 z-50 w-72 rounded-md border bg-secondary text-gray-200 shadow-md",
       className
     )}
     {...props}
@@ -53,7 +53,7 @@ const PopoverContent = ({ children, className = "", ...props }: any) => (
 
 const Command = ({ children, className = "", ...props }: any) => (
   <div
-    className={cn("flex flex-col overflow-hidden rounded-md bg-gray-800 text-gray-200", className)}
+    className={cn("flex flex-col overflow-hidden rounded-md bg-secondary text-gray-200", className)}
     {...props}
   >
     {children}
@@ -102,7 +102,7 @@ const CommandItem = ({
 }: any) => (
   <div
     className={cn(
-      "flex cursor-pointer items-center rounded-sm px-2 py-1.5 text-sm hover:bg-gray-700 text-gray-200",
+      "flex cursor-pointer items-center rounded-sm px-2 py-1.5 text-sm text-gray-200",
       className
     )}
     onClick={() => onSelect?.(value)}
@@ -189,7 +189,7 @@ const DropdownButton = ({ onCourseSelect }: DropdownButtonProps) => {
           </Button>
         </PopoverTrigger>
         {open && (
-          <PopoverContent className="w-[200px]">
+          <PopoverContent className="w-[200px] bg-secondary">
             <Command>
               <CommandInput
                 placeholder="Search courses..."
