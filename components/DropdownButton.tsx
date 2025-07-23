@@ -167,6 +167,14 @@ const DropdownButton = ({ onCourseSelect }: DropdownButtonProps) => {
     onCourseSelect?.(newValue);
     console.log("Selected course:", newValue);
   };
+  //auto-focus on search in dropdownButton
+  const searchInputRef = useRef<HTMLInputElement>(null);
+  useEffect(() => {
+    if (open && searchInputRef.current) {
+      searchInputRef.current.focus();
+    }
+  }, [open]);
+  
 
   return (
     <div className="ml-3" ref={dropdownRef}>
@@ -185,6 +193,7 @@ const DropdownButton = ({ onCourseSelect }: DropdownButtonProps) => {
             <Command>
               <CommandInput
                 placeholder="Search courses..."
+                ref={searchInputRef}
                 value={searchTerm}
                 onChange={(e: any) => setSearchTerm(e.target.value)}
               />
