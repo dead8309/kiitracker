@@ -6,7 +6,8 @@ import { createJSONStorage, persist } from "zustand/middleware"
 
 import { Course } from "@/lib/course-schema"
 import { GetUserRoutine } from "@/lib/firebase/userController"
-import { coursesTimetable } from "@/lib/timetable-data" // Add this import
+// import { coursesTimetable } from "@/lib/timetable_data"
+import { loadCoursesTimetable } from "@/lib/loadTimetable"
 
 export type CourseWithId = Course & {
   id: number
@@ -19,13 +20,16 @@ type State = {
 }
 
 type Actions = {
-  fetch: (user: User | null) => void
+  // fetch: (user: User | null) => void
+  fetch: (user: User | null) => Promise<void>
   addCourse: (course: Course, day: string) => void
   deleteCourse: (id: number, day: string) => void
   editCourse: (id: number, course: Partial<Course>, day: string) => void
   reset: () => void
   addAllCourses: (courses: {[key: string]: CourseWithId[]}) => void
-  loadTimetableForCourse: (courseCode: string) => void 
+  // loadTimetableForCourse: (courseCode: string) => void 
+  loadTimetableForCourse: (courseCode: string) => Promise<void>
+
 }
 
 const initialState: State = {
@@ -114,23 +118,25 @@ export const useCoursesStore = create<State & Actions>()(
       reset: () => set({ ...initialState }),
       addAllCourses: (courses) => set({ coursesByDay: courses }),
       // Move the loadTimetableForCourse function here, inside the store
-      loadTimetableForCourse: (courseCode) => {
-        const timetable = coursesTimetable[courseCode];
+      loadTimetableForCourse: async (courseCode) => {
+        const timetable = await loadCoursesTimetable(courseCode)
+      
         if (timetable) {
-          const coursesWithIds: {[key: string]: CourseWithId[]} = {};
-          
-          Object.keys(timetable).forEach(day => {
+          const coursesWithIds: { [key: string]: CourseWithId[] } = {}
+      
+          Object.keys(timetable).forEach((day) => {
             coursesWithIds[day] = timetable[day].map((course, index) => ({
               ...course,
-              id: Date.now() + index // Generate unique ID
-            }));
-          });
-          
-          set({ coursesByDay: coursesWithIds });
+              id: Date.now() + index,
+            }))
+          })
+      
+          set({ coursesByDay: coursesWithIds })
         } else {
-          console.log(`No timetable found for course: ${courseCode}`);
+          console.log(`No timetable found for course: ${courseCode}`)
         }
-      },
+      }
+      
     }),
     {
       name: "courses",
