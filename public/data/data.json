@@ -1,7 +1,3 @@
-// lib/timetable-data.ts
-import { Course } from "./course-schema"
-
-export const coursesTimetable: { [key: string]: { [key: string]: Course[] } } =
 {
   "CSE-1": {
     "monday": [
