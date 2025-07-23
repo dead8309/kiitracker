@@ -76,8 +76,10 @@ export default function Dashboard() {
           <div className="flex">
             <h2 className="mr-2 text-3xl font-bold tracking-tight">Dashboard</h2>
             <ProjectDetailsDialog />
+          </div >
+          <div className="font-bold tracking-tight">
+            <DropdownButton onCourseSelect={handleCourseSelect}/> 
           </div>
-          <DropdownButton onCourseSelect={handleCourseSelect}/>
         </div>
       </div>
       <div className="grid grid-cols-1 md:grid-cols-2 w-full items-center justify-center gap-6 mt-6">
