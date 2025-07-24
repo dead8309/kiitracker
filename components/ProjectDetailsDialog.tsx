@@ -30,7 +30,7 @@ const ProjectDetailsDialog = (props: Props) => {
             <DialogTitle className="text-2xl">Welcome to KIITracker!</DialogTitle>
             <DialogDescription>
               <div className="flex items-center gap-3 my-2">
-                <p className="flex items-center">
+                <div className="flex items-center">
                   <Github className="w-5 h-5" />
                   <Link
                     className="ml-1 underline"
@@ -38,8 +38,8 @@ const ProjectDetailsDialog = (props: Props) => {
                   >
                     GitHub
                   </Link>
-                </p>
-                <p className="flex items-center">
+                </div>
+                <div className="flex items-center">
                   <Youtube className="w-5 h-5" />
                   <Link
                     className="ml-1 underline"
@@ -47,7 +47,7 @@ const ProjectDetailsDialog = (props: Props) => {
                   >
                     YouTube
                   </Link>
-                </p>
+                </div>
               </div>
               <p className="my-2 mt-4 ">
               Are you tired of boring, complex schedules for your classes? 

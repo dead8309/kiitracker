@@ -77,6 +77,7 @@ function CourseCard({
                 Make changes to your course. Click save when you&apos;re done.
               </DialogDescription>
             </DialogHeader>
+            
             <CourseForm
               course={{ course, timeSlot, campus, classRoom, type }}
               onSubmitSuccess={(course) => {

@@ -45,7 +45,9 @@ const timeSlotOptions = [
   { label: "1:20 PM - 2:20 PM" },
   { label: "2:00 PM - 3:00 PM" },
   { label: "3:00 PM - 4:00 PM" },
+  { label: "3:15 PM - 4:15 PM" },
   { label: "4:00 PM - 5:00 PM" },
+  { label: "4:15 PM - 5:15 PM" },
   { label: "5:00 PM - 6:00 PM" },
 ]
 
@@ -183,7 +185,7 @@ export default function CourseForm({
                   <SelectContent>
                     <SelectGroup>
                       <ScrollArea className="h-72">
-                        {Array.from(Array(23).keys())
+                        {Array.from(Array(25).keys())
                           .map((option) => `Campus ${option + 1}`)
                           .map((option) => {
                             return (

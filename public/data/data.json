@@ -1,0 +1,7731 @@
+{
+  "CSE-1": {
+    "monday": [
+      {
+        "timeSlot": "8 AM - 9 AM",
+        "course": "CN",
+        "classRoom": "C25-A-306",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "9 AM - 10 AM",
+        "course": "DAA(L)",
+        "classRoom": "C25-A-003(L)",
+        "type": "lab",
+        "campus": ""
+      },
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "DAA(L)",
+        "classRoom": "C25-A-003(L)",
+        "type": "lab",
+        "campus": ""
+      }
+    ],
+    "tuesday": [
+      {
+        "timeSlot": "11 AM - 12 AM",
+        "course": "DAA",
+        "classRoom": "C25-B-117",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "12 AM - 1 AM",
+        "course": "SE",
+        "classRoom": "C25-B-117",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "1 AM - 2 AM",
+        "course": "EE",
+        "classRoom": "C25-B-117",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "3.15 AM - 4.15 AM",
+        "course": "CN(L)",
+        "classRoom": "C25-A-003(L)",
+        "type": "lab",
+        "campus": ""
+      },
+      {
+        "timeSlot": "4.15 AM - 5.15 AM",
+        "course": "CN(L)",
+        "classRoom": "C25-A-003(L)",
+        "type": "lab",
+        "campus": ""
+      }
+    ],
+    "wednesday": [
+      {
+        "timeSlot": "8 AM - 9 AM",
+        "course": "DAA",
+        "classRoom": "C25-A-007",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "9 AM - 10 AM",
+        "course": "SE",
+        "classRoom": "C25-A-007",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "EE",
+        "classRoom": "C25-A-007",
+        "type": "theory",
+        "campus": ""
+      }
+    ],
+    "thursday": [
+      {
+        "timeSlot": "8 AM - 9 AM",
+        "course": "DAA",
+        "classRoom": "C25-A-008",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "9 AM - 10 AM",
+        "course": "SE",
+        "classRoom": "C25-A-008",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "CN",
+        "classRoom": "C25-A-008",
+        "type": "theory",
+        "campus": ""
+      }
+    ],
+    "friday": [
+      {
+        "timeSlot": "8 AM - 9 AM",
+        "course": "EE",
+        "classRoom": "C25-A-007",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "9 AM - 10 AM",
+        "course": "CN",
+        "classRoom": "C25-A-007",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "SE",
+        "classRoom": "C25-A-007",
+        "type": "theory",
+        "campus": ""
+      }
+    ]
+  },
+  "CSE-2": {
+    "monday": [
+      {
+        "timeSlot": "8 AM - 9 AM",
+        "course": "DAA",
+        "classRoom": "C25-A-007",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "9 AM - 10 AM",
+        "course": "SE",
+        "classRoom": "C25-A-007",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "EE",
+        "classRoom": "C25-A-007",
+        "type": "theory",
+        "campus": ""
+      }
+    ],
+    "tuesday": [
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "CN",
+        "classRoom": "C25-B-119",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "11 AM - 12 AM",
+        "course": "EE",
+        "classRoom": "C25-B-119",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "12 AM - 1 AM",
+        "course": "SE",
+        "classRoom": "C25-B-119",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "1 AM - 2 AM",
+        "course": "DAA",
+        "classRoom": "C25-B-119",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "3.15 AM - 4.15 AM",
+        "course": "DAA(L)",
+        "classRoom": "C25-B-302(L)",
+        "type": "lab",
+        "campus": ""
+      },
+      {
+        "timeSlot": "4.15 AM - 5.15 AM",
+        "course": "DAA(L)",
+        "classRoom": "C25-B-302(L)",
+        "type": "lab",
+        "campus": ""
+      }
+    ],
+    "wednesday": [
+      {
+        "timeSlot": "9 AM - 10 AM",
+        "course": "SE",
+        "classRoom": "C25-A-008",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "CN",
+        "classRoom": "C25-A-008",
+        "type": "theory",
+        "campus": ""
+      }
+    ],
+    "thursday": [
+      {
+        "timeSlot": "8 AM - 9 AM",
+        "course": "DAA",
+        "classRoom": "C25-A-207",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "9 AM - 10 AM",
+        "course": "CN(L)",
+        "classRoom": "C25-A-004(L)",
+        "type": "lab",
+        "campus": ""
+      },
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "CN(L)",
+        "classRoom": "C25-A-004(L)",
+        "type": "lab",
+        "campus": ""
+      }
+    ],
+    "friday": [
+      {
+        "timeSlot": "8 AM - 9 AM",
+        "course": "EE",
+        "classRoom": "C25-A-008",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "9 AM - 10 AM",
+        "course": "CN",
+        "classRoom": "C25-A-008",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "SE",
+        "classRoom": "C25-A-008",
+        "type": "theory",
+        "campus": ""
+      }
+    ]
+  },
+  "CSE-3": {
+    "monday": [
+      {
+        "timeSlot": "8 AM - 9 AM",
+        "course": "EE",
+        "classRoom": "C25-A-008",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "9 AM - 10 AM",
+        "course": "CN",
+        "classRoom": "C25-A-008",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "DAA",
+        "classRoom": "C25-A-008",
+        "type": "theory",
+        "campus": ""
+      }
+    ],
+    "tuesday": [
+      {
+        "timeSlot": "9 AM - 10 AM",
+        "course": "DAA(L)",
+        "classRoom": "C25-B-304(L)",
+        "type": "lab",
+        "campus": ""
+      },
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "DAA(L)",
+        "classRoom": "C25-B-304(L)",
+        "type": "lab",
+        "campus": ""
+      },
+      {
+        "timeSlot": "11 AM - 12 AM",
+        "course": "EE",
+        "classRoom": "C25-B-116",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "12 AM - 1 AM",
+        "course": "SE",
+        "classRoom": "C25-B-116",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "1 AM - 2 AM",
+        "course": "CN",
+        "classRoom": "C25-B-116",
+        "type": "theory",
+        "campus": ""
+      }
+    ],
+    "wednesday": [
+      {
+        "timeSlot": "8 AM - 9 AM",
+        "course": "CN",
+        "classRoom": "C25-A-009",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "9 AM - 10 AM",
+        "course": "DAA",
+        "classRoom": "C25-A-009",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "SE",
+        "classRoom": "C25-A-009",
+        "type": "theory",
+        "campus": ""
+      }
+    ],
+    "thursday": [
+      {
+        "timeSlot": "8 AM - 9 AM",
+        "course": "DAA",
+        "classRoom": "C25-A-009",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "9 AM - 10 AM",
+        "course": "SE",
+        "classRoom": "C25-A-009",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "EE",
+        "classRoom": "C25-A-009",
+        "type": "theory",
+        "campus": ""
+      }
+    ],
+    "friday": [
+      {
+        "timeSlot": "8 AM - 9 AM",
+        "course": "SE",
+        "classRoom": "C25-A-101",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "9 AM - 10 AM",
+        "course": "CN(L)",
+        "classRoom": "C25-A-003(L)",
+        "type": "lab",
+        "campus": ""
+      },
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "CN(L)",
+        "classRoom": "C25-A-003(L)",
+        "type": "lab",
+        "campus": ""
+      }
+    ]
+  },
+  "CSE-4": {
+    "monday": [
+      {
+        "timeSlot": "8 AM - 9 AM",
+        "course": "DAA",
+        "classRoom": "C25-B-119",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "9 AM - 10 AM",
+        "course": "CN(L)",
+        "classRoom": "C25-B-314(L)",
+        "type": "lab",
+        "campus": ""
+      },
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "CN(L)",
+        "classRoom": "C25-B-314(L)",
+        "type": "lab",
+        "campus": ""
+      }
+    ],
+    "tuesday": [
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "DAA",
+        "classRoom": "C25-B-206",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "11 AM - 12 AM",
+        "course": "CN",
+        "classRoom": "C25-B-206",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "12 AM - 1 AM",
+        "course": "SE",
+        "classRoom": "C25-B-206",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "1 AM - 2 AM",
+        "course": "EE",
+        "classRoom": "C25-B-206",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "3.15 AM - 4.15 AM",
+        "course": "DAA(L)",
+        "classRoom": "C25-A-103(L)",
+        "type": "lab",
+        "campus": ""
+      },
+      {
+        "timeSlot": "4.15 AM - 5.15 AM",
+        "course": "DAA(L)",
+        "classRoom": "C25-A-103(L)",
+        "type": "lab",
+        "campus": ""
+      }
+    ],
+    "wednesday": [
+      {
+        "timeSlot": "9 AM - 10 AM",
+        "course": "CN",
+        "classRoom": "C25-A-010",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "SE",
+        "classRoom": "C25-A-010",
+        "type": "theory",
+        "campus": ""
+      }
+    ],
+    "thursday": [
+      {
+        "timeSlot": "8 AM - 9 AM",
+        "course": "EE",
+        "classRoom": "C25-A-010",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "9 AM - 10 AM",
+        "course": "DAA",
+        "classRoom": "C25-A-010",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "SE",
+        "classRoom": "C25-A-010",
+        "type": "theory",
+        "campus": ""
+      }
+    ],
+    "friday": [
+      {
+        "timeSlot": "8 AM - 9 AM",
+        "course": "CN",
+        "classRoom": "C25-A-009",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "9 AM - 10 AM",
+        "course": "SE",
+        "classRoom": "C25-A-009",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "EE",
+        "classRoom": "C25-A-009",
+        "type": "theory",
+        "campus": ""
+      }
+    ]
+  },
+  "CSE-5": {
+    "monday": [
+      {
+        "timeSlot": "8 AM - 9 AM",
+        "course": "SE",
+        "classRoom": "C25-A-009",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "9 AM - 10 AM",
+        "course": "EE",
+        "classRoom": "C25-A-009",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "DAA",
+        "classRoom": "C25-A-009",
+        "type": "theory",
+        "campus": ""
+      }
+    ],
+    "tuesday": [
+      {
+        "timeSlot": "9 AM - 10 AM",
+        "course": "CN(L)",
+        "classRoom": "C25-A-004(L)",
+        "type": "lab",
+        "campus": ""
+      },
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "CN(L)",
+        "classRoom": "C25-A-004(L)",
+        "type": "lab",
+        "campus": ""
+      },
+      {
+        "timeSlot": "11 AM - 12 AM",
+        "course": "DAA",
+        "classRoom": "C25-A-108",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "12 AM - 1 AM",
+        "course": "CN",
+        "classRoom": "C25-A-108",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "3.15 AM - 4.15 AM",
+        "course": "EE",
+        "classRoom": "C25-A-007",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "4.15 AM - 5.15 AM",
+        "course": "SE",
+        "classRoom": "C25-A-007",
+        "type": "theory",
+        "campus": ""
+      }
+    ],
+    "wednesday": [
+      {
+        "timeSlot": "8 AM - 9 AM",
+        "course": "DAA",
+        "classRoom": "C25-A-011",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "9 AM - 10 AM",
+        "course": "CN",
+        "classRoom": "C25-A-011",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "SE",
+        "classRoom": "C25-A-011",
+        "type": "theory",
+        "campus": ""
+      }
+    ],
+    "thursday": [
+      {
+        "timeSlot": "8 AM - 9 AM",
+        "course": "EE",
+        "classRoom": "C25-A-011",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "9 AM - 10 AM",
+        "course": "SE",
+        "classRoom": "C25-A-011",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "CN",
+        "classRoom": "C25-A-011",
+        "type": "theory",
+        "campus": ""
+      }
+    ],
+    "friday": [
+      {
+        "timeSlot": "9 AM - 10 AM",
+        "course": "DAA(L)",
+        "classRoom": "C25-B-314(L)",
+        "type": "lab",
+        "campus": ""
+      },
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "DAA(L)",
+        "classRoom": "C25-B-314(L)",
+        "type": "lab",
+        "campus": ""
+      }
+    ]
+  },
+  "CSE-6": {
+    "monday": [
+      {
+        "timeSlot": "8 AM - 9 AM",
+        "course": "CN",
+        "classRoom": "C25-A-018",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "9 AM - 10 AM",
+        "course": "DAA(L)",
+        "classRoom": "C25-A-102(L)",
+        "type": "lab",
+        "campus": ""
+      },
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "DAA(L)",
+        "classRoom": "C25-A-102(L)",
+        "type": "lab",
+        "campus": ""
+      }
+    ],
+    "tuesday": [
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "SE",
+        "classRoom": "C25-B-308",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "11 AM - 12 AM",
+        "course": "DAA",
+        "classRoom": "C25-B-308",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "12 AM - 1 AM",
+        "course": "EE",
+        "classRoom": "C25-B-308",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "1 AM - 2 AM",
+        "course": "CN",
+        "classRoom": "C25-B-308",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "3.15 AM - 4.15 AM",
+        "course": "CN(L)",
+        "classRoom": "C25-A-104(L)",
+        "type": "lab",
+        "campus": ""
+      },
+      {
+        "timeSlot": "4.15 AM - 5.15 AM",
+        "course": "CN(L)",
+        "classRoom": "C25-A-104(L)",
+        "type": "lab",
+        "campus": ""
+      }
+    ],
+    "wednesday": [
+      {
+        "timeSlot": "8 AM - 9 AM",
+        "course": "DAA",
+        "classRoom": "C25-A-101",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "9 AM - 10 AM",
+        "course": "SE",
+        "classRoom": "C25-A-101",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "EE",
+        "classRoom": "C25-A-101",
+        "type": "theory",
+        "campus": ""
+      }
+    ],
+    "thursday": [
+      {
+        "timeSlot": "8 AM - 9 AM",
+        "course": "CN",
+        "classRoom": "C25-A-101",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "9 AM - 10 AM",
+        "course": "EE",
+        "classRoom": "C25-A-101",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "SE",
+        "classRoom": "C25-A-101",
+        "type": "theory",
+        "campus": ""
+      }
+    ],
+    "friday": [
+      {
+        "timeSlot": "9 AM - 10 AM",
+        "course": "SE",
+        "classRoom": "C25-A-010",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "DAA",
+        "classRoom": "C25-A-010",
+        "type": "theory",
+        "campus": ""
+      }
+    ]
+  },
+  "CSE-7": {
+    "monday": [
+      {
+        "timeSlot": "8 AM - 9 AM",
+        "course": "SE",
+        "classRoom": "C25-A-010",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "9 AM - 10 AM",
+        "course": "CN",
+        "classRoom": "C25-A-010",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "EE",
+        "classRoom": "C25-A-010",
+        "type": "theory",
+        "campus": ""
+      }
+    ],
+    "tuesday": [
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "EE",
+        "classRoom": "C25-A-306",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "11 AM - 12 AM",
+        "course": "SE",
+        "classRoom": "C25-A-306",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "12 AM - 1 AM",
+        "course": "CN",
+        "classRoom": "C25-A-306",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "1 AM - 2 AM",
+        "course": "DAA",
+        "classRoom": "C25-A-306",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "3.15 AM - 4.15 AM",
+        "course": "DAA(L)",
+        "classRoom": "C25-A-202(L)",
+        "type": "lab",
+        "campus": ""
+      },
+      {
+        "timeSlot": "4.15 AM - 5.15 AM",
+        "course": "DAA(L)",
+        "classRoom": "C25-A-202(L)",
+        "type": "lab",
+        "campus": ""
+      }
+    ],
+    "wednesday": [
+      {
+        "timeSlot": "9 AM - 10 AM",
+        "course": "CN",
+        "classRoom": "C25-A-106",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "SE",
+        "classRoom": "C25-A-106",
+        "type": "theory",
+        "campus": ""
+      }
+    ],
+    "thursday": [
+      {
+        "timeSlot": "8 AM - 9 AM",
+        "course": "DAA",
+        "classRoom": "C25-A-309",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "9 AM - 10 AM",
+        "course": "CN(L)",
+        "classRoom": "C25-A-003(L)",
+        "type": "lab",
+        "campus": ""
+      },
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "CN(L)",
+        "classRoom": "C25-A-003(L)",
+        "type": "lab",
+        "campus": ""
+      }
+    ],
+    "friday": [
+      {
+        "timeSlot": "8 AM - 9 AM",
+        "course": "SE",
+        "classRoom": "C25-A-011",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "9 AM - 10 AM",
+        "course": "DAA",
+        "classRoom": "C25-A-011",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "EE",
+        "classRoom": "C25-A-011",
+        "type": "theory",
+        "campus": ""
+      }
+    ]
+  },
+  "CSE-8": {
+    "monday": [
+      {
+        "timeSlot": "8 AM - 9 AM",
+        "course": "CN",
+        "classRoom": "C25-A-011",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "9 AM - 10 AM",
+        "course": "EE",
+        "classRoom": "C25-A-011",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "DAA",
+        "classRoom": "C25-A-011",
+        "type": "theory",
+        "campus": ""
+      }
+    ],
+    "tuesday": [
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "CN",
+        "classRoom": "C25-A-307",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "11 AM - 12 AM",
+        "course": "DAA",
+        "classRoom": "C25-A-307",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "12 AM - 1 AM",
+        "course": "SE",
+        "classRoom": "C25-A-307",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "3.15 AM - 4.15 AM",
+        "course": "DAA(L)",
+        "classRoom": "C25-A-203(L)",
+        "type": "lab",
+        "campus": ""
+      },
+      {
+        "timeSlot": "4.15 AM - 5.15 AM",
+        "course": "DAA(L)",
+        "classRoom": "C25-A-203(L)",
+        "type": "lab",
+        "campus": ""
+      }
+    ],
+    "wednesday": [
+      {
+        "timeSlot": "8 AM - 9 AM",
+        "course": "EE",
+        "classRoom": "C25-A-107",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "9 AM - 10 AM",
+        "course": "SE",
+        "classRoom": "C25-A-107",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "CN",
+        "classRoom": "C25-A-107",
+        "type": "theory",
+        "campus": ""
+      }
+    ],
+    "thursday": [
+      {
+        "timeSlot": "8 AM - 9 AM",
+        "course": "DAA",
+        "classRoom": "C25-A-106",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "9 AM - 10 AM",
+        "course": "SE",
+        "classRoom": "C25-A-106",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "EE",
+        "classRoom": "C25-A-106",
+        "type": "theory",
+        "campus": ""
+      }
+    ],
+    "friday": [
+      {
+        "timeSlot": "8 AM - 9 AM",
+        "course": "SE",
+        "classRoom": "C25-A-107",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "9 AM - 10 AM",
+        "course": "CN(L)",
+        "classRoom": "C25-A-102(L)",
+        "type": "lab",
+        "campus": ""
+      },
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "CN(L)",
+        "classRoom": "C25-A-102(L)",
+        "type": "lab",
+        "campus": ""
+      }
+    ]
+  },
+  "CSE-9": {
+    "monday": [
+      {
+        "timeSlot": "8 AM - 9 AM",
+        "course": "DAA",
+        "classRoom": "C25-A-114",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "9 AM - 10 AM",
+        "course": "CN(L)",
+        "classRoom": "C25-A-103(L)",
+        "type": "lab",
+        "campus": ""
+      },
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "CN(L)",
+        "classRoom": "C25-A-103(L)",
+        "type": "lab",
+        "campus": ""
+      }
+    ],
+    "tuesday": [
+      {
+        "timeSlot": "9 AM - 10 AM",
+        "course": "EE",
+        "classRoom": "C25-B-107",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "CN",
+        "classRoom": "C25-B-107",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "11 AM - 12 AM",
+        "course": "DAA",
+        "classRoom": "C25-B-107",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "12 AM - 1 AM",
+        "course": "SE",
+        "classRoom": "C25-B-107",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "3.15 AM - 4.15 AM",
+        "course": "DAA(L)",
+        "classRoom": "C25-A-204(L)",
+        "type": "lab",
+        "campus": ""
+      },
+      {
+        "timeSlot": "4.15 AM - 5.15 AM",
+        "course": "DAA(L)",
+        "classRoom": "C25-A-204(L)",
+        "type": "lab",
+        "campus": ""
+      }
+    ],
+    "wednesday": [
+      {
+        "timeSlot": "8 AM - 9 AM",
+        "course": "EE",
+        "classRoom": "C25-A-108",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "9 AM - 10 AM",
+        "course": "SE",
+        "classRoom": "C25-A-108",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "CN",
+        "classRoom": "C25-A-108",
+        "type": "theory",
+        "campus": ""
+      }
+    ],
+    "thursday": [
+      {
+        "timeSlot": "8 AM - 9 AM",
+        "course": "CN",
+        "classRoom": "C25-A-107",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "9 AM - 10 AM",
+        "course": "EE",
+        "classRoom": "C25-A-107",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "SE",
+        "classRoom": "C25-A-107",
+        "type": "theory",
+        "campus": ""
+      }
+    ],
+    "friday": [
+      {
+        "timeSlot": "9 AM - 10 AM",
+        "course": "DAA",
+        "classRoom": "C25-A-101",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "SE",
+        "classRoom": "C25-A-101",
+        "type": "theory",
+        "campus": ""
+      }
+    ]
+  },
+  "CSE-10": {
+    "monday": [
+      {
+        "timeSlot": "8 AM - 9 AM",
+        "course": "EE",
+        "classRoom": "C25-A-101",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "9 AM - 10 AM",
+        "course": "DAA",
+        "classRoom": "C25-A-101",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "SE",
+        "classRoom": "C25-A-101",
+        "type": "theory",
+        "campus": ""
+      }
+    ],
+    "tuesday": [
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "CN",
+        "classRoom": "C25-B-108",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "11 AM - 12 AM",
+        "course": "SE",
+        "classRoom": "C25-B-108",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "12 AM - 1 AM",
+        "course": "DAA",
+        "classRoom": "C25-B-108",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "3.15 AM - 4.15 AM",
+        "course": "CN(L)",
+        "classRoom": "C25-A-212(L)",
+        "type": "lab",
+        "campus": ""
+      },
+      {
+        "timeSlot": "4.15 AM - 5.15 AM",
+        "course": "CN(L)",
+        "classRoom": "C25-A-212(L)",
+        "type": "lab",
+        "campus": ""
+      }
+    ],
+    "wednesday": [
+      {
+        "timeSlot": "8 AM - 9 AM",
+        "course": "SE",
+        "classRoom": "C25-A-109",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "9 AM - 10 AM",
+        "course": "EE",
+        "classRoom": "C25-A-109",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "DAA",
+        "classRoom": "C25-A-109",
+        "type": "theory",
+        "campus": ""
+      }
+    ],
+    "thursday": [
+      {
+        "timeSlot": "8 AM - 9 AM",
+        "course": "CN",
+        "classRoom": "C25-B-310",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "9 AM - 10 AM",
+        "course": "DAA(L)",
+        "classRoom": "C25-B-314(L)",
+        "type": "lab",
+        "campus": ""
+      },
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "DAA(L)",
+        "classRoom": "C25-B-314(L)",
+        "type": "lab",
+        "campus": ""
+      }
+    ],
+    "friday": [
+      {
+        "timeSlot": "8 AM - 9 AM",
+        "course": "SE",
+        "classRoom": "C25-A-106",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "9 AM - 10 AM",
+        "course": "EE",
+        "classRoom": "C25-A-106",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "CN",
+        "classRoom": "C25-A-106",
+        "type": "theory",
+        "campus": ""
+      }
+    ]
+  },
+  "CSE-11": {
+    "monday": [
+      {
+        "timeSlot": "8 AM - 9 AM",
+        "course": "CN",
+        "classRoom": "C25-A-115",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "9 AM - 10 AM",
+        "course": "DAA(L)",
+        "classRoom": "C25-A-104(L)",
+        "type": "lab",
+        "campus": ""
+      },
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "DAA(L)",
+        "classRoom": "C25-A-104(L)",
+        "type": "lab",
+        "campus": ""
+      }
+    ],
+    "tuesday": [
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "EE",
+        "classRoom": "C25-B-109",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "11 AM - 12 AM",
+        "course": "DAA",
+        "classRoom": "C25-B-109",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "12 AM - 1 AM",
+        "course": "SE",
+        "classRoom": "C25-B-109",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "1 AM - 2 AM",
+        "course": "CN",
+        "classRoom": "C25-B-109",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "3.15 AM - 4.15 AM",
+        "course": "CN(L)",
+        "classRoom": "C25-A-302(L)",
+        "type": "lab",
+        "campus": ""
+      },
+      {
+        "timeSlot": "4.15 AM - 5.15 AM",
+        "course": "CN(L)",
+        "classRoom": "C25-A-302(L)",
+        "type": "lab",
+        "campus": ""
+      }
+    ],
+    "wednesday": [
+      {
+        "timeSlot": "8 AM - 9 AM",
+        "course": "DAA",
+        "classRoom": "C25-A-110",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "9 AM - 10 AM",
+        "course": "SE",
+        "classRoom": "C25-A-110",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "EE",
+        "classRoom": "C25-A-110",
+        "type": "theory",
+        "campus": ""
+      }
+    ],
+    "thursday": [
+      {
+        "timeSlot": "8 AM - 9 AM",
+        "course": "CN",
+        "classRoom": "C25-A-108",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "9 AM - 10 AM",
+        "course": "SE",
+        "classRoom": "C25-A-108",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "DAA",
+        "classRoom": "C25-A-108",
+        "type": "theory",
+        "campus": ""
+      }
+    ],
+    "friday": [
+      {
+        "timeSlot": "9 AM - 10 AM",
+        "course": "EE",
+        "classRoom": "C25-A-107",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "SE",
+        "classRoom": "C25-A-107",
+        "type": "theory",
+        "campus": ""
+      }
+    ]
+  },
+  "CSE-12": {
+    "monday": [
+      {
+        "timeSlot": "9 AM - 10 AM",
+        "course": "CN",
+        "classRoom": "C25-A-106",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "SE",
+        "classRoom": "C25-A-106",
+        "type": "theory",
+        "campus": ""
+      }
+    ],
+    "tuesday": [
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "CN",
+        "classRoom": "C25-B-113",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "11 AM - 12 AM",
+        "course": "EE",
+        "classRoom": "C25-B-113",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "12 AM - 1 AM",
+        "course": "CN(L)",
+        "classRoom": "C25-B-312(L)",
+        "type": "lab",
+        "campus": ""
+      },
+      {
+        "timeSlot": "1 AM - 2 AM",
+        "course": "CN(L)",
+        "classRoom": "C25-B-312(L)",
+        "type": "lab",
+        "campus": ""
+      },
+      {
+        "timeSlot": "3.15 AM - 4.15 AM",
+        "course": "SE",
+        "classRoom": "C25-A-008",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "4.15 AM - 5.15 AM",
+        "course": "DAA",
+        "classRoom": "C25-A-008",
+        "type": "theory",
+        "campus": ""
+      }
+    ],
+    "wednesday": [
+      {
+        "timeSlot": "8 AM - 9 AM",
+        "course": "CN",
+        "classRoom": "C25-A-010",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "9 AM - 10 AM",
+        "course": "DAA(L)",
+        "classRoom": "C25-A-003(L)",
+        "type": "lab",
+        "campus": ""
+      },
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "DAA(L)",
+        "classRoom": "C25-A-003(L)",
+        "type": "lab",
+        "campus": ""
+      }
+    ],
+    "thursday": [
+      {
+        "timeSlot": "8 AM - 9 AM",
+        "course": "DAA",
+        "classRoom": "C25-A-109",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "9 AM - 10 AM",
+        "course": "SE",
+        "classRoom": "C25-A-109",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "EE",
+        "classRoom": "C25-A-109",
+        "type": "theory",
+        "campus": ""
+      }
+    ],
+    "friday": [
+      {
+        "timeSlot": "8 AM - 9 AM",
+        "course": "SE",
+        "classRoom": "C25-A-108",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "9 AM - 10 AM",
+        "course": "EE",
+        "classRoom": "C25-A-108",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "DAA",
+        "classRoom": "C25-A-108",
+        "type": "theory",
+        "campus": ""
+      }
+    ]
+  },
+  "CSE-13": {
+    "monday": [
+      {
+        "timeSlot": "8 AM - 9 AM",
+        "course": "SE",
+        "classRoom": "C25-A-107",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "9 AM - 10 AM",
+        "course": "DAA",
+        "classRoom": "C25-A-107",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "EE",
+        "classRoom": "C25-A-107",
+        "type": "theory",
+        "campus": ""
+      }
+    ],
+    "tuesday": [
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "SE",
+        "classRoom": "C25-B-115",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "11 AM - 12 AM",
+        "course": "CN",
+        "classRoom": "C25-B-115",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "12 AM - 1 AM",
+        "course": "EE",
+        "classRoom": "C25-B-115",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "3.15 AM - 4.15 AM",
+        "course": "DAA(L)",
+        "classRoom": "C25-A-303(L)",
+        "type": "lab",
+        "campus": ""
+      },
+      {
+        "timeSlot": "4.15 AM - 5.15 AM",
+        "course": "DAA(L)",
+        "classRoom": "C25-A-303(L)",
+        "type": "lab",
+        "campus": ""
+      }
+    ],
+    "wednesday": [
+      {
+        "timeSlot": "8 AM - 9 AM",
+        "course": "EE",
+        "classRoom": "C25-A-111",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "9 AM - 10 AM",
+        "course": "CN",
+        "classRoom": "C25-A-111",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "SE",
+        "classRoom": "C25-A-111",
+        "type": "theory",
+        "campus": ""
+      }
+    ],
+    "thursday": [
+      {
+        "timeSlot": "8 AM - 9 AM",
+        "course": "DAA",
+        "classRoom": "C25-A-110",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "9 AM - 10 AM",
+        "course": "SE",
+        "classRoom": "C25-A-110",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "CN",
+        "classRoom": "C25-A-110",
+        "type": "theory",
+        "campus": ""
+      }
+    ],
+    "friday": [
+      {
+        "timeSlot": "8 AM - 9 AM",
+        "course": "DAA",
+        "classRoom": "C25-A-208",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "9 AM - 10 AM",
+        "course": "CN(L)",
+        "classRoom": "C25-A-103(L)",
+        "type": "lab",
+        "campus": ""
+      },
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "CN(L)",
+        "classRoom": "C25-A-103(L)",
+        "type": "lab",
+        "campus": ""
+      }
+    ]
+  },
+  "CSE-14": {
+    "monday": [
+      {
+        "timeSlot": "8 AM - 9 AM",
+        "course": "DAA",
+        "classRoom": "C25-A-116",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "9 AM - 10 AM",
+        "course": "CN(L)",
+        "classRoom": "C25-A-202(L)",
+        "type": "lab",
+        "campus": ""
+      },
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "CN(L)",
+        "classRoom": "C25-A-202(L)",
+        "type": "lab",
+        "campus": ""
+      }
+    ],
+    "tuesday": [
+      {
+        "timeSlot": "11 AM - 12 AM",
+        "course": "SE",
+        "classRoom": "C25-B-201",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "12 AM - 1 AM",
+        "course": "DAA",
+        "classRoom": "C25-B-201",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "1 AM - 2 AM",
+        "course": "CN",
+        "classRoom": "C25-B-201",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "3.15 AM - 4.15 AM",
+        "course": "DAA(L)",
+        "classRoom": "C25-A-304(L)",
+        "type": "lab",
+        "campus": ""
+      },
+      {
+        "timeSlot": "4.15 AM - 5.15 AM",
+        "course": "DAA(L)",
+        "classRoom": "C25-A-304(L)",
+        "type": "lab",
+        "campus": ""
+      }
+    ],
+    "wednesday": [
+      {
+        "timeSlot": "8 AM - 9 AM",
+        "course": "EE",
+        "classRoom": "C25-A-113",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "9 AM - 10 AM",
+        "course": "SE",
+        "classRoom": "C25-A-113",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "CN",
+        "classRoom": "C25-A-113",
+        "type": "theory",
+        "campus": ""
+      }
+    ],
+    "thursday": [
+      {
+        "timeSlot": "8 AM - 9 AM",
+        "course": "EE",
+        "classRoom": "C25-A-111",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "9 AM - 10 AM",
+        "course": "SE",
+        "classRoom": "C25-A-111",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "CN",
+        "classRoom": "C25-A-111",
+        "type": "theory",
+        "campus": ""
+      }
+    ],
+    "friday": [
+      {
+        "timeSlot": "8 AM - 9 AM",
+        "course": "DAA",
+        "classRoom": "C25-A-109",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "9 AM - 10 AM",
+        "course": "SE",
+        "classRoom": "C25-A-109",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "EE",
+        "classRoom": "C25-A-109",
+        "type": "theory",
+        "campus": ""
+      }
+    ]
+  },
+  "CSE-15": {
+    "monday": [
+      {
+        "timeSlot": "8 AM - 9 AM",
+        "course": "EE",
+        "classRoom": "C25-A-108",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "9 AM - 10 AM",
+        "course": "CN",
+        "classRoom": "C25-A-108",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "DAA",
+        "classRoom": "C25-A-108",
+        "type": "theory",
+        "campus": ""
+      }
+    ],
+    "tuesday": [
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "SE",
+        "classRoom": "C25-A-210",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "11 AM - 12 AM",
+        "course": "DAA",
+        "classRoom": "C25-A-210",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "12 AM - 1 AM",
+        "course": "DAA(L)",
+        "classRoom": "C25-A-102(L)",
+        "type": "lab",
+        "campus": ""
+      },
+      {
+        "timeSlot": "1 AM - 2 AM",
+        "course": "DAA(L)",
+        "classRoom": "C25-A-102(L)",
+        "type": "lab",
+        "campus": ""
+      },
+      {
+        "timeSlot": "3.15 AM - 4.15 AM",
+        "course": "CN",
+        "classRoom": "C25-A-009",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "4.15 AM - 5.15 AM",
+        "course": "EE",
+        "classRoom": "C25-A-009",
+        "type": "theory",
+        "campus": ""
+      }
+    ],
+    "wednesday": [
+      {
+        "timeSlot": "8 AM - 9 AM",
+        "course": "SE",
+        "classRoom": "C25-A-106",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "9 AM - 10 AM",
+        "course": "CN(L)",
+        "classRoom": "C25-A-312(L)",
+        "type": "lab",
+        "campus": ""
+      },
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "CN(L)",
+        "classRoom": "C25-A-312(L)",
+        "type": "lab",
+        "campus": ""
+      }
+    ],
+    "thursday": [
+      {
+        "timeSlot": "9 AM - 10 AM",
+        "course": "CN",
+        "classRoom": "C25-A-113",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "SE",
+        "classRoom": "C25-A-113",
+        "type": "theory",
+        "campus": ""
+      }
+    ],
+    "friday": [
+      {
+        "timeSlot": "8 AM - 9 AM",
+        "course": "EE",
+        "classRoom": "C25-A-110",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "9 AM - 10 AM",
+        "course": "SE",
+        "classRoom": "C25-A-110",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "DAA",
+        "classRoom": "C25-A-110",
+        "type": "theory",
+        "campus": ""
+      }
+    ]
+  },
+  "CSE-16": {
+    "monday": [
+      {
+        "timeSlot": "8 AM - 9 AM",
+        "course": "SE",
+        "classRoom": "C25-A-109",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "9 AM - 10 AM",
+        "course": "CN",
+        "classRoom": "C25-A-109",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "EE",
+        "classRoom": "C25-A-109",
+        "type": "theory",
+        "campus": ""
+      }
+    ],
+    "tuesday": [
+      {
+        "timeSlot": "11 AM - 12 AM",
+        "course": "CN",
+        "classRoom": "C25-B-122",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "12 AM - 1 AM",
+        "course": "DAA",
+        "classRoom": "C25-B-122",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "1 AM - 2 AM",
+        "course": "EE",
+        "classRoom": "C25-B-122",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "3.15 AM - 4.15 AM",
+        "course": "DAA(L)",
+        "classRoom": "C25-A-312(L)",
+        "type": "lab",
+        "campus": ""
+      },
+      {
+        "timeSlot": "4.15 AM - 5.15 AM",
+        "course": "DAA(L)",
+        "classRoom": "C25-A-312(L)",
+        "type": "lab",
+        "campus": ""
+      }
+    ],
+    "wednesday": [
+      {
+        "timeSlot": "8 AM - 9 AM",
+        "course": "CN",
+        "classRoom": "C25-A-201",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "9 AM - 10 AM",
+        "course": "SE",
+        "classRoom": "C25-A-201",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "DAA",
+        "classRoom": "C25-A-201",
+        "type": "theory",
+        "campus": ""
+      }
+    ],
+    "thursday": [
+      {
+        "timeSlot": "8 AM - 9 AM",
+        "course": "DAA",
+        "classRoom": "C25-A-201",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "9 AM - 10 AM",
+        "course": "EE",
+        "classRoom": "C25-A-201",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "SE",
+        "classRoom": "C25-A-201",
+        "type": "theory",
+        "campus": ""
+      }
+    ],
+    "friday": [
+      {
+        "timeSlot": "8 AM - 9 AM",
+        "course": "SE",
+        "classRoom": "C25-A-308",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "9 AM - 10 AM",
+        "course": "CN(L)",
+        "classRoom": "C25-A-104(L)",
+        "type": "lab",
+        "campus": ""
+      },
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "CN(L)",
+        "classRoom": "C25-A-104(L)",
+        "type": "lab",
+        "campus": ""
+      }
+    ]
+  },
+  "CSE-17": {
+    "monday": [
+      {
+        "timeSlot": "8 AM - 9 AM",
+        "course": "SE",
+        "classRoom": "C25-A-110",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "9 AM - 10 AM",
+        "course": "EE",
+        "classRoom": "C25-A-110",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "CN",
+        "classRoom": "C25-A-110",
+        "type": "theory",
+        "campus": ""
+      }
+    ],
+    "tuesday": [
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "CN",
+        "classRoom": "C25-B-120",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "11 AM - 12 AM",
+        "course": "DAA",
+        "classRoom": "C25-B-120",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "12 AM - 1 AM",
+        "course": "SE",
+        "classRoom": "C25-B-120",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "1 AM - 2 AM",
+        "course": "EE",
+        "classRoom": "C25-B-120",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "3.15 AM - 4.15 AM",
+        "course": "CN(L)",
+        "classRoom": "C25-B-102(L)",
+        "type": "lab",
+        "campus": ""
+      },
+      {
+        "timeSlot": "4.15 AM - 5.15 AM",
+        "course": "CN(L)",
+        "classRoom": "C25-B-102(L)",
+        "type": "lab",
+        "campus": ""
+      }
+    ],
+    "wednesday": [
+      {
+        "timeSlot": "9 AM - 10 AM",
+        "course": "DAA(L)",
+        "classRoom": "C25-A-102(L)",
+        "type": "lab",
+        "campus": ""
+      },
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "DAA(L)",
+        "classRoom": "C25-A-102(L)",
+        "type": "lab",
+        "campus": ""
+      }
+    ],
+    "thursday": [
+      {
+        "timeSlot": "8 AM - 9 AM",
+        "course": "EE",
+        "classRoom": "C25-A-206",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "9 AM - 10 AM",
+        "course": "DAA",
+        "classRoom": "C25-A-206",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "SE",
+        "classRoom": "C25-A-206",
+        "type": "theory",
+        "campus": ""
+      }
+    ],
+    "friday": [
+      {
+        "timeSlot": "8 AM - 9 AM",
+        "course": "CN",
+        "classRoom": "C25-A-111",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "9 AM - 10 AM",
+        "course": "SE",
+        "classRoom": "C25-A-111",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "DAA",
+        "classRoom": "C25-A-111",
+        "type": "theory",
+        "campus": ""
+      }
+    ]
+  },
+  "CSE-18": {
+    "monday": [
+      {
+        "timeSlot": "8 AM - 9 AM",
+        "course": "EE",
+        "classRoom": "C25-A-111",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "9 AM - 10 AM",
+        "course": "SE",
+        "classRoom": "C25-A-111",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "CN",
+        "classRoom": "C25-A-111",
+        "type": "theory",
+        "campus": ""
+      }
+    ],
+    "tuesday": [
+      {
+        "timeSlot": "9 AM - 10 AM",
+        "course": "CN(L)",
+        "classRoom": "C25-A-003(L)",
+        "type": "lab",
+        "campus": ""
+      },
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "CN(L)",
+        "classRoom": "C25-A-003(L)",
+        "type": "lab",
+        "campus": ""
+      },
+      {
+        "timeSlot": "11 AM - 12 AM",
+        "course": "DAA",
+        "classRoom": "C25-A-211",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "12 AM - 1 AM",
+        "course": "EE",
+        "classRoom": "C25-A-211",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "3.15 AM - 4.15 AM",
+        "course": "CN",
+        "classRoom": "C25-A-010",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "4.15 AM - 5.15 AM",
+        "course": "SE",
+        "classRoom": "C25-A-010",
+        "type": "theory",
+        "campus": ""
+      }
+    ],
+    "wednesday": [
+      {
+        "timeSlot": "8 AM - 9 AM",
+        "course": "SE",
+        "classRoom": "C25-A-206",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "9 AM - 10 AM",
+        "course": "CN",
+        "classRoom": "C25-A-206",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "EE",
+        "classRoom": "C25-A-206",
+        "type": "theory",
+        "campus": ""
+      }
+    ],
+    "thursday": [
+      {
+        "timeSlot": "9 AM - 10 AM",
+        "course": "SE",
+        "classRoom": "C25-A-207",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "DAA",
+        "classRoom": "C25-A-207",
+        "type": "theory",
+        "campus": ""
+      }
+    ],
+    "friday": [
+      {
+        "timeSlot": "8 AM - 9 AM",
+        "course": "DAA",
+        "classRoom": "C25-A-214",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "9 AM - 10 AM",
+        "course": "DAA(L)",
+        "classRoom": "C25-A-202(L)",
+        "type": "lab",
+        "campus": ""
+      },
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "DAA(L)",
+        "classRoom": "C25-A-202(L)",
+        "type": "lab",
+        "campus": ""
+      }
+    ]
+  },
+  "CSE-19": {
+    "monday": [
+      {
+        "timeSlot": "8 AM - 9 AM",
+        "course": "CN",
+        "classRoom": "C25-A-118",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "9 AM - 10 AM",
+        "course": "DAA(L)",
+        "classRoom": "C25-A-203(L)",
+        "type": "lab",
+        "campus": ""
+      },
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "DAA(L)",
+        "classRoom": "C25-A-203(L)",
+        "type": "lab",
+        "campus": ""
+      }
+    ],
+    "tuesday": [
+      {
+        "timeSlot": "11 AM - 12 AM",
+        "course": "DAA",
+        "classRoom": "C25-A-213",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "12 AM - 1 AM",
+        "course": "CN(L)",
+        "classRoom": "C25-A-103(L)",
+        "type": "lab",
+        "campus": ""
+      },
+      {
+        "timeSlot": "1 AM - 2 AM",
+        "course": "CN(L)",
+        "classRoom": "C25-A-103(L)",
+        "type": "lab",
+        "campus": ""
+      },
+      {
+        "timeSlot": "3.15 AM - 4.15 AM",
+        "course": "SE",
+        "classRoom": "C25-A-011",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "4.15 AM - 5.15 AM",
+        "course": "CN",
+        "classRoom": "C25-A-011",
+        "type": "theory",
+        "campus": ""
+      }
+    ],
+    "wednesday": [
+      {
+        "timeSlot": "8 AM - 9 AM",
+        "course": "DAA",
+        "classRoom": "C25-A-207",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "9 AM - 10 AM",
+        "course": "EE",
+        "classRoom": "C25-A-207",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "SE",
+        "classRoom": "C25-A-207",
+        "type": "theory",
+        "campus": ""
+      }
+    ],
+    "thursday": [
+      {
+        "timeSlot": "8 AM - 9 AM",
+        "course": "SE",
+        "classRoom": "C25-A-208",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "9 AM - 10 AM",
+        "course": "DAA",
+        "classRoom": "C25-A-208",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "EE",
+        "classRoom": "C25-A-208",
+        "type": "theory",
+        "campus": ""
+      }
+    ],
+    "friday": [
+      {
+        "timeSlot": "8 AM - 9 AM",
+        "course": "CN",
+        "classRoom": "C25-A-113",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "9 AM - 10 AM",
+        "course": "SE",
+        "classRoom": "C25-A-113",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "EE",
+        "classRoom": "C25-A-113",
+        "type": "theory",
+        "campus": ""
+      }
+    ]
+  },
+  "CSE-20": {
+    "monday": [
+      {
+        "timeSlot": "8 AM - 9 AM",
+        "course": "DAA",
+        "classRoom": "C25-A-113",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "9 AM - 10 AM",
+        "course": "SE",
+        "classRoom": "C25-A-113",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "EE",
+        "classRoom": "C25-A-113",
+        "type": "theory",
+        "campus": ""
+      }
+    ],
+    "tuesday": [
+      {
+        "timeSlot": "9 AM - 10 AM",
+        "course": "CN(L)",
+        "classRoom": "C25-B-312(L)",
+        "type": "lab",
+        "campus": ""
+      },
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "CN(L)",
+        "classRoom": "C25-B-312(L)",
+        "type": "lab",
+        "campus": ""
+      },
+      {
+        "timeSlot": "11 AM - 12 AM",
+        "course": "EE",
+        "classRoom": "C25-B-110",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "12 AM - 1 AM",
+        "course": "DAA",
+        "classRoom": "C25-B-110",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "3.15 AM - 4.15 AM",
+        "course": "SE",
+        "classRoom": "C25-A-016",
+        "type": "theory",
+        "campus": ""
+      }
+    ],
+    "wednesday": [
+      {
+        "timeSlot": "8 AM - 9 AM",
+        "course": "SE",
+        "classRoom": "C25-A-208",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "9 AM - 10 AM",
+        "course": "DAA",
+        "classRoom": "C25-A-208",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "CN",
+        "classRoom": "C25-A-208",
+        "type": "theory",
+        "campus": ""
+      }
+    ],
+    "thursday": [
+      {
+        "timeSlot": "8 AM - 9 AM",
+        "course": "SE",
+        "classRoom": "C25-A-209",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "9 AM - 10 AM",
+        "course": "CN",
+        "classRoom": "C25-A-209",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "EE",
+        "classRoom": "C25-A-209",
+        "type": "theory",
+        "campus": ""
+      }
+    ],
+    "friday": [
+      {
+        "timeSlot": "8 AM - 9 AM",
+        "course": "CN",
+        "classRoom": "C25-B-101",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "9 AM - 10 AM",
+        "course": "DAA(L)",
+        "classRoom": "C25-A-203(L)",
+        "type": "lab",
+        "campus": ""
+      },
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "DAA(L)",
+        "classRoom": "C25-A-203(L)",
+        "type": "lab",
+        "campus": ""
+      }
+    ]
+  },
+  "CSE-21": {
+    "monday": [
+      {
+        "timeSlot": "8 AM - 9 AM",
+        "course": "CN",
+        "classRoom": "C25-A-214",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "9 AM - 10 AM",
+        "course": "DAA(L)",
+        "classRoom": "C25-A-204(L)",
+        "type": "lab",
+        "campus": ""
+      },
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "DAA(L)",
+        "classRoom": "C25-A-204(L)",
+        "type": "lab",
+        "campus": ""
+      }
+    ],
+    "tuesday": [
+      {
+        "timeSlot": "11 AM - 12 AM",
+        "course": "DAA",
+        "classRoom": "C25-A-214",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "12 AM - 1 AM",
+        "course": "CN(L)",
+        "classRoom": "C25-A-104(L)",
+        "type": "lab",
+        "campus": ""
+      },
+      {
+        "timeSlot": "1 AM - 2 AM",
+        "course": "CN(L)",
+        "classRoom": "C25-A-104(L)",
+        "type": "lab",
+        "campus": ""
+      },
+      {
+        "timeSlot": "3.15 AM - 4.15 AM",
+        "course": "SE",
+        "classRoom": "C25-A-101",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "4.15 AM - 5.15 AM",
+        "course": "EE",
+        "classRoom": "C25-A-101",
+        "type": "theory",
+        "campus": ""
+      }
+    ],
+    "wednesday": [
+      {
+        "timeSlot": "8 AM - 9 AM",
+        "course": "DAA",
+        "classRoom": "C25-A-209",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "9 AM - 10 AM",
+        "course": "SE",
+        "classRoom": "C25-A-209",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "EE",
+        "classRoom": "C25-A-209",
+        "type": "theory",
+        "campus": ""
+      }
+    ],
+    "thursday": [
+      {
+        "timeSlot": "8 AM - 9 AM",
+        "course": "CN",
+        "classRoom": "C25-A-210",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "9 AM - 10 AM",
+        "course": "SE",
+        "classRoom": "C25-A-210",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "DAA",
+        "classRoom": "C25-A-210",
+        "type": "theory",
+        "campus": ""
+      }
+    ],
+    "friday": [
+      {
+        "timeSlot": "8 AM - 9 AM",
+        "course": "EE",
+        "classRoom": "C25-A-201",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "9 AM - 10 AM",
+        "course": "SE",
+        "classRoom": "C25-A-201",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "CN",
+        "classRoom": "C25-A-201",
+        "type": "theory",
+        "campus": ""
+      }
+    ]
+  },
+  "CSE-22": {
+    "monday": [
+      {
+        "timeSlot": "8 AM - 9 AM",
+        "course": "SE",
+        "classRoom": "C25-A-215",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "9 AM - 10 AM",
+        "course": "DAA(L)",
+        "classRoom": "C25-A-212(L)",
+        "type": "lab",
+        "campus": ""
+      },
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "DAA(L)",
+        "classRoom": "C25-A-212(L)",
+        "type": "lab",
+        "campus": ""
+      }
+    ],
+    "tuesday": [
+      {
+        "timeSlot": "11 AM - 12 AM",
+        "course": "DAA",
+        "classRoom": "C25-A-215",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "12 AM - 1 AM",
+        "course": "CN(L)",
+        "classRoom": "C25-A-202(L)",
+        "type": "lab",
+        "campus": ""
+      },
+      {
+        "timeSlot": "1 AM - 2 AM",
+        "course": "CN(L)",
+        "classRoom": "C25-A-202(L)",
+        "type": "lab",
+        "campus": ""
+      },
+      {
+        "timeSlot": "3.15 AM - 4.15 AM",
+        "course": "SE",
+        "classRoom": "C25-A-106",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "4.15 AM - 5.15 AM",
+        "course": "EE",
+        "classRoom": "C25-A-106",
+        "type": "theory",
+        "campus": ""
+      }
+    ],
+    "wednesday": [
+      {
+        "timeSlot": "8 AM - 9 AM",
+        "course": "CN",
+        "classRoom": "C25-A-210",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "9 AM - 10 AM",
+        "course": "DAA",
+        "classRoom": "C25-A-210",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "EE",
+        "classRoom": "C25-A-210",
+        "type": "theory",
+        "campus": ""
+      }
+    ],
+    "thursday": [
+      {
+        "timeSlot": "8 AM - 9 AM",
+        "course": "EE",
+        "classRoom": "C25-A-211",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "9 AM - 10 AM",
+        "course": "CN",
+        "classRoom": "C25-A-211",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "SE",
+        "classRoom": "C25-A-211",
+        "type": "theory",
+        "campus": ""
+      }
+    ],
+    "friday": [
+      {
+        "timeSlot": "8 AM - 9 AM",
+        "course": "SE",
+        "classRoom": "C25-A-206",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "9 AM - 10 AM",
+        "course": "CN",
+        "classRoom": "C25-A-206",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "DAA",
+        "classRoom": "C25-A-206",
+        "type": "theory",
+        "campus": ""
+      }
+    ]
+  },
+  "CSE-23": {
+    "monday": [
+      {
+        "timeSlot": "8 AM - 9 AM",
+        "course": "CN",
+        "classRoom": "C25-A-201",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "9 AM - 10 AM",
+        "course": "DAA",
+        "classRoom": "C25-A-201",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "SE",
+        "classRoom": "C25-A-201",
+        "type": "theory",
+        "campus": ""
+      }
+    ],
+    "tuesday": [
+      {
+        "timeSlot": "11 AM - 12 AM",
+        "course": "SE",
+        "classRoom": "C25-A-216",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "12 AM - 1 AM",
+        "course": "DAA(L)",
+        "classRoom": "C25-A-203(L)",
+        "type": "lab",
+        "campus": ""
+      },
+      {
+        "timeSlot": "1 AM - 2 AM",
+        "course": "DAA(L)",
+        "classRoom": "C25-A-203(L)",
+        "type": "lab",
+        "campus": ""
+      },
+      {
+        "timeSlot": "3.15 AM - 4.15 AM",
+        "course": "EE",
+        "classRoom": "C25-A-107",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "4.15 AM - 5.15 AM",
+        "course": "CN",
+        "classRoom": "C25-A-107",
+        "type": "theory",
+        "campus": ""
+      }
+    ],
+    "wednesday": [
+      {
+        "timeSlot": "8 AM - 9 AM",
+        "course": "EE",
+        "classRoom": "C25-A-211",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "9 AM - 10 AM",
+        "course": "CN",
+        "classRoom": "C25-A-211",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "SE",
+        "classRoom": "C25-A-211",
+        "type": "theory",
+        "campus": ""
+      }
+    ],
+    "thursday": [
+      {
+        "timeSlot": "8 AM - 9 AM",
+        "course": "DAA",
+        "classRoom": "C25-A-213",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "9 AM - 10 AM",
+        "course": "SE",
+        "classRoom": "C25-A-213",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "EE",
+        "classRoom": "C25-A-213",
+        "type": "theory",
+        "campus": ""
+      }
+    ],
+    "friday": [
+      {
+        "timeSlot": "8 AM - 9 AM",
+        "course": "DAA",
+        "classRoom": "C25-A-215",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "9 AM - 10 AM",
+        "course": "CN(L)",
+        "classRoom": "C25-A-204(L)",
+        "type": "lab",
+        "campus": ""
+      },
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "CN(L)",
+        "classRoom": "C25-A-204(L)",
+        "type": "lab",
+        "campus": ""
+      }
+    ]
+  },
+  "CSE-24": {
+    "monday": [
+      {
+        "timeSlot": "8 AM - 9 AM",
+        "course": "CN",
+        "classRoom": "C25-A-216",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "9 AM - 10 AM",
+        "course": "DAA(L)",
+        "classRoom": "C25-A-302(L)",
+        "type": "lab",
+        "campus": ""
+      },
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "DAA(L)",
+        "classRoom": "C25-A-302(L)",
+        "type": "lab",
+        "campus": ""
+      }
+    ],
+    "tuesday": [
+      {
+        "timeSlot": "11 AM - 12 AM",
+        "course": "DAA",
+        "classRoom": "C25-A-218",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "12 AM - 1 AM",
+        "course": "CN(L)",
+        "classRoom": "C25-A-204(L)",
+        "type": "lab",
+        "campus": ""
+      },
+      {
+        "timeSlot": "1 AM - 2 AM",
+        "course": "CN(L)",
+        "classRoom": "C25-A-204(L)",
+        "type": "lab",
+        "campus": ""
+      },
+      {
+        "timeSlot": "3.15 AM - 4.15 AM",
+        "course": "EE",
+        "classRoom": "C25-A-108",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "4.15 AM - 5.15 AM",
+        "course": "SE",
+        "classRoom": "C25-A-108",
+        "type": "theory",
+        "campus": ""
+      }
+    ],
+    "wednesday": [
+      {
+        "timeSlot": "8 AM - 9 AM",
+        "course": "SE",
+        "classRoom": "C25-A-213",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "9 AM - 10 AM",
+        "course": "EE",
+        "classRoom": "C25-A-213",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "DAA",
+        "classRoom": "C25-A-213",
+        "type": "theory",
+        "campus": ""
+      }
+    ],
+    "thursday": [
+      {
+        "timeSlot": "8 AM - 9 AM",
+        "course": "DAA",
+        "classRoom": "C25-A-301",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "9 AM - 10 AM",
+        "course": "SE",
+        "classRoom": "C25-A-301",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "CN",
+        "classRoom": "C25-A-301",
+        "type": "theory",
+        "campus": ""
+      }
+    ],
+    "friday": [
+      {
+        "timeSlot": "8 AM - 9 AM",
+        "course": "CN",
+        "classRoom": "C25-A-207",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "9 AM - 10 AM",
+        "course": "SE",
+        "classRoom": "C25-A-207",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "EE",
+        "classRoom": "C25-A-207",
+        "type": "theory",
+        "campus": ""
+      }
+    ]
+  },
+  "CSE-25": {
+    "monday": [
+      {
+        "timeSlot": "8 AM - 9 AM",
+        "course": "CN",
+        "classRoom": "C25-A-206",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "9 AM - 10 AM",
+        "course": "SE",
+        "classRoom": "C25-A-206",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "EE",
+        "classRoom": "C25-A-206",
+        "type": "theory",
+        "campus": ""
+      }
+    ],
+    "tuesday": [
+      {
+        "timeSlot": "9 AM - 10 AM",
+        "course": "DAA(L)",
+        "classRoom": "C25-A-102(L)",
+        "type": "lab",
+        "campus": ""
+      },
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "DAA(L)",
+        "classRoom": "C25-A-102(L)",
+        "type": "lab",
+        "campus": ""
+      },
+      {
+        "timeSlot": "11 AM - 12 AM",
+        "course": "SE",
+        "classRoom": "C25-A-118",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "12 AM - 1 AM",
+        "course": "DAA",
+        "classRoom": "C25-A-118",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "1 AM - 2 AM",
+        "course": "EE",
+        "classRoom": "C25-A-118",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "3.15 AM - 4.15 AM",
+        "course": "CN",
+        "classRoom": "C25-B-019",
+        "type": "theory",
+        "campus": ""
+      }
+    ],
+    "wednesday": [
+      {
+        "timeSlot": "8 AM - 9 AM",
+        "course": "DAA",
+        "classRoom": "C25-A-306",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "9 AM - 10 AM",
+        "course": "CN(L)",
+        "classRoom": "C25-A-103(L)",
+        "type": "lab",
+        "campus": ""
+      },
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "CN(L)",
+        "classRoom": "C25-A-103(L)",
+        "type": "lab",
+        "campus": ""
+      }
+    ],
+    "thursday": [
+      {
+        "timeSlot": "8 AM - 9 AM",
+        "course": "DAA",
+        "classRoom": "C25-A-306",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "9 AM - 10 AM",
+        "course": "EE",
+        "classRoom": "C25-A-306",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "SE",
+        "classRoom": "C25-A-306",
+        "type": "theory",
+        "campus": ""
+      }
+    ],
+    "friday": [
+      {
+        "timeSlot": "9 AM - 10 AM",
+        "course": "CN",
+        "classRoom": "C25-A-208",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "SE",
+        "classRoom": "C25-A-208",
+        "type": "theory",
+        "campus": ""
+      }
+    ]
+  },
+  "CSE-26": {
+    "monday": [
+      {
+        "timeSlot": "8 AM - 9 AM",
+        "course": "EE",
+        "classRoom": "C25-A-218",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "9 AM - 10 AM",
+        "course": "DAA(L)",
+        "classRoom": "C25-A-303(L)",
+        "type": "lab",
+        "campus": ""
+      },
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "DAA(L)",
+        "classRoom": "C25-A-303(L)",
+        "type": "lab",
+        "campus": ""
+      }
+    ],
+    "tuesday": [
+      {
+        "timeSlot": "11 AM - 12 AM",
+        "course": "DAA",
+        "classRoom": "C25-A-201",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "12 AM - 1 AM",
+        "course": "CN(L)",
+        "classRoom": "C25-A-212(L)",
+        "type": "lab",
+        "campus": ""
+      },
+      {
+        "timeSlot": "1 AM - 2 AM",
+        "course": "CN(L)",
+        "classRoom": "C25-A-212(L)",
+        "type": "lab",
+        "campus": ""
+      },
+      {
+        "timeSlot": "3.15 AM - 4.15 AM",
+        "course": "CN",
+        "classRoom": "C25-A-109",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "4.15 AM - 5.15 AM",
+        "course": "SE",
+        "classRoom": "C25-A-109",
+        "type": "theory",
+        "campus": ""
+      }
+    ],
+    "wednesday": [
+      {
+        "timeSlot": "8 AM - 9 AM",
+        "course": "EE",
+        "classRoom": "C25-A-301",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "9 AM - 10 AM",
+        "course": "SE",
+        "classRoom": "C25-A-301",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "CN",
+        "classRoom": "C25-A-301",
+        "type": "theory",
+        "campus": ""
+      }
+    ],
+    "thursday": [
+      {
+        "timeSlot": "8 AM - 9 AM",
+        "course": "CN",
+        "classRoom": "C25-A-307",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "9 AM - 10 AM",
+        "course": "SE",
+        "classRoom": "C25-A-307",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "DAA",
+        "classRoom": "C25-A-307",
+        "type": "theory",
+        "campus": ""
+      }
+    ],
+    "friday": [
+      {
+        "timeSlot": "8 AM - 9 AM",
+        "course": "DAA",
+        "classRoom": "C25-A-209",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "9 AM - 10 AM",
+        "course": "EE",
+        "classRoom": "C25-A-209",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "SE",
+        "classRoom": "C25-A-209",
+        "type": "theory",
+        "campus": ""
+      }
+    ]
+  },
+  "CSE-27": {
+    "monday": [
+      {
+        "timeSlot": "8 AM - 9 AM",
+        "course": "EE",
+        "classRoom": "C25-A-207",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "9 AM - 10 AM",
+        "course": "CN",
+        "classRoom": "C25-A-207",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "SE",
+        "classRoom": "C25-A-207",
+        "type": "theory",
+        "campus": ""
+      }
+    ],
+    "tuesday": [
+      {
+        "timeSlot": "9 AM - 10 AM",
+        "course": "DAA(L)",
+        "classRoom": "C25-A-103(L)",
+        "type": "lab",
+        "campus": ""
+      },
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "DAA(L)",
+        "classRoom": "C25-A-103(L)",
+        "type": "lab",
+        "campus": ""
+      },
+      {
+        "timeSlot": "11 AM - 12 AM",
+        "course": "DAA",
+        "classRoom": "C25-A-206",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "12 AM - 1 AM",
+        "course": "EE",
+        "classRoom": "C25-A-206",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "3.15 AM - 4.15 AM",
+        "course": "SE",
+        "classRoom": "C25-A-110",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "4.15 AM - 5.15 AM",
+        "course": "CN",
+        "classRoom": "C25-A-110",
+        "type": "theory",
+        "campus": ""
+      }
+    ],
+    "wednesday": [
+      {
+        "timeSlot": "9 AM - 10 AM",
+        "course": "CN",
+        "classRoom": "C25-A-306",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "DAA",
+        "classRoom": "C25-A-306",
+        "type": "theory",
+        "campus": ""
+      }
+    ],
+    "thursday": [
+      {
+        "timeSlot": "8 AM - 9 AM",
+        "course": "SE",
+        "classRoom": "C25-A-115",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "9 AM - 10 AM",
+        "course": "CN(L)",
+        "classRoom": "C25-A-102(L)",
+        "type": "lab",
+        "campus": ""
+      },
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "CN(L)",
+        "classRoom": "C25-A-102(L)",
+        "type": "lab",
+        "campus": ""
+      }
+    ],
+    "friday": [
+      {
+        "timeSlot": "8 AM - 9 AM",
+        "course": "DAA",
+        "classRoom": "C25-A-210",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "9 AM - 10 AM",
+        "course": "SE",
+        "classRoom": "C25-A-210",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "EE",
+        "classRoom": "C25-A-210",
+        "type": "theory",
+        "campus": ""
+      }
+    ]
+  },
+  "CSE-28": {
+    "monday": [
+      {
+        "timeSlot": "8 AM - 9 AM",
+        "course": "CN",
+        "classRoom": "C25-A-208",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "9 AM - 10 AM",
+        "course": "EE",
+        "classRoom": "C25-A-208",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "SE",
+        "classRoom": "C25-A-208",
+        "type": "theory",
+        "campus": ""
+      }
+    ],
+    "tuesday": [
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "SE",
+        "classRoom": "C25-A-207",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "11 AM - 12 AM",
+        "course": "CN",
+        "classRoom": "C25-A-207",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "12 AM - 1 AM",
+        "course": "DAA(L)",
+        "classRoom": "C25-A-302(L)",
+        "type": "lab",
+        "campus": ""
+      },
+      {
+        "timeSlot": "1 AM - 2 AM",
+        "course": "DAA(L)",
+        "classRoom": "C25-A-302(L)",
+        "type": "lab",
+        "campus": ""
+      },
+      {
+        "timeSlot": "3.15 AM - 4.15 AM",
+        "course": "DAA",
+        "classRoom": "C25-B-101",
+        "type": "theory",
+        "campus": ""
+      }
+    ],
+    "wednesday": [
+      {
+        "timeSlot": "8 AM - 9 AM",
+        "course": "EE",
+        "classRoom": "C25-A-307",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "9 AM - 10 AM",
+        "course": "CN",
+        "classRoom": "C25-A-307",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "SE",
+        "classRoom": "C25-A-307",
+        "type": "theory",
+        "campus": ""
+      }
+    ],
+    "thursday": [
+      {
+        "timeSlot": "8 AM - 9 AM",
+        "course": "EE",
+        "classRoom": "C25-A-308",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "9 AM - 10 AM",
+        "course": "DAA",
+        "classRoom": "C25-A-308",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "SE",
+        "classRoom": "C25-A-308",
+        "type": "theory",
+        "campus": ""
+      }
+    ],
+    "friday": [
+      {
+        "timeSlot": "8 AM - 9 AM",
+        "course": "DAA",
+        "classRoom": "C25-A-216",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "9 AM - 10 AM",
+        "course": "CN(L)",
+        "classRoom": "C25-A-212(L)",
+        "type": "lab",
+        "campus": ""
+      },
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "CN(L)",
+        "classRoom": "C25-A-212(L)",
+        "type": "lab",
+        "campus": ""
+      }
+    ]
+  },
+  "CSE-29": {
+    "monday": [
+      {
+        "timeSlot": "8 AM - 9 AM",
+        "course": "SE",
+        "classRoom": "C25-A-314",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "9 AM - 10 AM",
+        "course": "CN(L)",
+        "classRoom": "C25-A-304(L)",
+        "type": "lab",
+        "campus": ""
+      },
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "CN(L)",
+        "classRoom": "C25-A-304(L)",
+        "type": "lab",
+        "campus": ""
+      }
+    ],
+    "tuesday": [
+      {
+        "timeSlot": "9 AM - 10 AM",
+        "course": "DAA(L)",
+        "classRoom": "C25-A-104(L)",
+        "type": "lab",
+        "campus": ""
+      },
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "DAA(L)",
+        "classRoom": "C25-A-104(L)",
+        "type": "lab",
+        "campus": ""
+      },
+      {
+        "timeSlot": "11 AM - 12 AM",
+        "course": "CN",
+        "classRoom": "C25-A-208",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "12 AM - 1 AM",
+        "course": "SE",
+        "classRoom": "C25-A-208",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "3.15 AM - 4.15 AM",
+        "course": "EE",
+        "classRoom": "C25-A-111",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "4.15 AM - 5.15 AM",
+        "course": "DAA",
+        "classRoom": "C25-A-111",
+        "type": "theory",
+        "campus": ""
+      }
+    ],
+    "wednesday": [
+      {
+        "timeSlot": "8 AM - 9 AM",
+        "course": "DAA",
+        "classRoom": "C25-A-308",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "9 AM - 10 AM",
+        "course": "SE",
+        "classRoom": "C25-A-308",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "EE",
+        "classRoom": "C25-A-308",
+        "type": "theory",
+        "campus": ""
+      }
+    ],
+    "thursday": [
+      {
+        "timeSlot": "9 AM - 10 AM",
+        "course": "CN",
+        "classRoom": "C25-A-309",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "DAA",
+        "classRoom": "C25-A-309",
+        "type": "theory",
+        "campus": ""
+      }
+    ],
+    "friday": [
+      {
+        "timeSlot": "8 AM - 9 AM",
+        "course": "EE",
+        "classRoom": "C25-A-211",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "9 AM - 10 AM",
+        "course": "SE",
+        "classRoom": "C25-A-211",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "CN",
+        "classRoom": "C25-A-211",
+        "type": "theory",
+        "campus": ""
+      }
+    ]
+  },
+  "CSE-30": {
+    "monday": [
+      {
+        "timeSlot": "8 AM - 9 AM",
+        "course": "SE",
+        "classRoom": "C25-A-315",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "9 AM - 10 AM",
+        "course": "CN(L)",
+        "classRoom": "C25-A-312(L)",
+        "type": "lab",
+        "campus": ""
+      },
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "CN(L)",
+        "classRoom": "C25-A-312(L)",
+        "type": "lab",
+        "campus": ""
+      }
+    ],
+    "tuesday": [
+      {
+        "timeSlot": "9 AM - 10 AM",
+        "course": "DAA(L)",
+        "classRoom": "C25-A-202(L)",
+        "type": "lab",
+        "campus": ""
+      },
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "DAA(L)",
+        "classRoom": "C25-A-202(L)",
+        "type": "lab",
+        "campus": ""
+      },
+      {
+        "timeSlot": "11 AM - 12 AM",
+        "course": "DAA",
+        "classRoom": "C25-A-209",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "12 AM - 1 AM",
+        "course": "EE",
+        "classRoom": "C25-A-209",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "3.15 AM - 4.15 AM",
+        "course": "CN",
+        "classRoom": "C25-A-113",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "4.15 AM - 5.15 AM",
+        "course": "SE",
+        "classRoom": "C25-A-113",
+        "type": "theory",
+        "campus": ""
+      }
+    ],
+    "wednesday": [
+      {
+        "timeSlot": "8 AM - 9 AM",
+        "course": "CN",
+        "classRoom": "C25-A-309",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "9 AM - 10 AM",
+        "course": "SE",
+        "classRoom": "C25-A-309",
+        "type": "theory",
+        "campus": ""
+      }
+    ],
+    "thursday": [
+      {
+        "timeSlot": "8 AM - 9 AM",
+        "course": "CN",
+        "classRoom": "C25-B-017",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "9 AM - 10 AM",
+        "course": "EE",
+        "classRoom": "C25-B-017",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "DAA",
+        "classRoom": "C25-B-017",
+        "type": "theory",
+        "campus": ""
+      }
+    ],
+    "friday": [
+      {
+        "timeSlot": "8 AM - 9 AM",
+        "course": "DAA",
+        "classRoom": "C25-A-213",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "9 AM - 10 AM",
+        "course": "EE",
+        "classRoom": "C25-A-213",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "SE",
+        "classRoom": "C25-A-213",
+        "type": "theory",
+        "campus": ""
+      }
+    ]
+  },
+  "CSE-31": {
+    "monday": [
+      {
+        "timeSlot": "8 AM - 9 AM",
+        "course": "SE",
+        "classRoom": "C25-B-309",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "9 AM - 10 AM",
+        "course": "DAA(L)",
+        "classRoom": "C25-B-102(L)",
+        "type": "lab",
+        "campus": ""
+      },
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "DAA(L)",
+        "classRoom": "C25-B-102(L)",
+        "type": "lab",
+        "campus": ""
+      }
+    ],
+    "tuesday": [
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "SE",
+        "classRoom": "C25-A-308",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "11 AM - 12 AM",
+        "course": "DAA",
+        "classRoom": "C25-A-308",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "12 AM - 1 AM",
+        "course": "CN(L)",
+        "classRoom": "C25-A-303(L)",
+        "type": "lab",
+        "campus": ""
+      },
+      {
+        "timeSlot": "1 AM - 2 AM",
+        "course": "CN(L)",
+        "classRoom": "C25-A-303(L)",
+        "type": "lab",
+        "campus": ""
+      },
+      {
+        "timeSlot": "3.15 AM - 4.15 AM",
+        "course": "CN",
+        "classRoom": "C25-B-106",
+        "type": "theory",
+        "campus": ""
+      }
+    ],
+    "wednesday": [
+      {
+        "timeSlot": "8 AM - 9 AM",
+        "course": "CN",
+        "classRoom": "C25-A-310",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "9 AM - 10 AM",
+        "course": "EE",
+        "classRoom": "C25-A-310",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "SE",
+        "classRoom": "C25-A-310",
+        "type": "theory",
+        "campus": ""
+      }
+    ],
+    "thursday": [
+      {
+        "timeSlot": "8 AM - 9 AM",
+        "course": "DAA",
+        "classRoom": "C25-A-311",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "9 AM - 10 AM",
+        "course": "CN",
+        "classRoom": "C25-A-311",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "EE",
+        "classRoom": "C25-A-311",
+        "type": "theory",
+        "campus": ""
+      }
+    ],
+    "friday": [
+      {
+        "timeSlot": "8 AM - 9 AM",
+        "course": "SE",
+        "classRoom": "C25-A-301",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "9 AM - 10 AM",
+        "course": "DAA",
+        "classRoom": "C25-A-301",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "EE",
+        "classRoom": "C25-A-301",
+        "type": "theory",
+        "campus": ""
+      }
+    ]
+  },
+  "CSE-32": {
+    "monday": [
+      {
+        "timeSlot": "8 AM - 9 AM",
+        "course": "DAA",
+        "classRoom": "C25-A-209",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "9 AM - 10 AM",
+        "course": "SE",
+        "classRoom": "C25-A-209",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "EE",
+        "classRoom": "C25-A-209",
+        "type": "theory",
+        "campus": ""
+      }
+    ],
+    "tuesday": [
+      {
+        "timeSlot": "8 AM - 9 AM",
+        "course": "CN",
+        "classRoom": "C25-A-308",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "9 AM - 10 AM",
+        "course": "DAA(L)",
+        "classRoom": "C25-A-203(L)",
+        "type": "lab",
+        "campus": ""
+      },
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "DAA(L)",
+        "classRoom": "C25-A-203(L)",
+        "type": "lab",
+        "campus": ""
+      },
+      {
+        "timeSlot": "11 AM - 12 AM",
+        "course": "EE",
+        "classRoom": "C25-A-109",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "12 AM - 1 AM",
+        "course": "DAA",
+        "classRoom": "C25-A-109",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "3.15 AM - 4.15 AM",
+        "course": "SE",
+        "classRoom": "C25-A-201",
+        "type": "theory",
+        "campus": ""
+      }
+    ],
+    "wednesday": [
+      {
+        "timeSlot": "9 AM - 10 AM",
+        "course": "CN",
+        "classRoom": "C25-A-311",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "SE",
+        "classRoom": "C25-A-311",
+        "type": "theory",
+        "campus": ""
+      }
+    ],
+    "thursday": [
+      {
+        "timeSlot": "8 AM - 9 AM",
+        "course": "SE",
+        "classRoom": "C25-A-116",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "9 AM - 10 AM",
+        "course": "CN(L)",
+        "classRoom": "C25-A-103(L)",
+        "type": "lab",
+        "campus": ""
+      },
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "CN(L)",
+        "classRoom": "C25-A-103(L)",
+        "type": "lab",
+        "campus": ""
+      }
+    ],
+    "friday": [
+      {
+        "timeSlot": "8 AM - 9 AM",
+        "course": "CN",
+        "classRoom": "C25-A-306",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "9 AM - 10 AM",
+        "course": "DAA",
+        "classRoom": "C25-A-306",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "EE",
+        "classRoom": "C25-A-306",
+        "type": "theory",
+        "campus": ""
+      }
+    ]
+  },
+  "CSE-33": {
+    "monday": [
+      {
+        "timeSlot": "8 AM - 9 AM",
+        "course": "DAA",
+        "classRoom": "C25-A-210",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "9 AM - 10 AM",
+        "course": "SE",
+        "classRoom": "C25-A-210",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "EE",
+        "classRoom": "C25-A-210",
+        "type": "theory",
+        "campus": ""
+      }
+    ],
+    "tuesday": [
+      {
+        "timeSlot": "11 AM - 12 AM",
+        "course": "EE",
+        "classRoom": "C25-B-307",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "12 AM - 1 AM",
+        "course": "SE",
+        "classRoom": "C25-B-307",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "1 AM - 2 AM",
+        "course": "CN",
+        "classRoom": "C25-B-307",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "3.15 AM - 4.15 AM",
+        "course": "DAA(L)",
+        "classRoom": "C25-B-103(L)",
+        "type": "lab",
+        "campus": ""
+      },
+      {
+        "timeSlot": "4.15 AM - 5.15 AM",
+        "course": "DAA(L)",
+        "classRoom": "C25-B-103(L)",
+        "type": "lab",
+        "campus": ""
+      }
+    ],
+    "wednesday": [
+      {
+        "timeSlot": "8 AM - 9 AM",
+        "course": "SE",
+        "classRoom": "C25-A-313",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "9 AM - 10 AM",
+        "course": "CN",
+        "classRoom": "C25-A-313",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "DAA",
+        "classRoom": "C25-A-313",
+        "type": "theory",
+        "campus": ""
+      }
+    ],
+    "thursday": [
+      {
+        "timeSlot": "8 AM - 9 AM",
+        "course": "EE",
+        "classRoom": "C25-A-313",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "9 AM - 10 AM",
+        "course": "SE",
+        "classRoom": "C25-A-313",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "CN",
+        "classRoom": "C25-A-313",
+        "type": "theory",
+        "campus": ""
+      }
+    ],
+    "friday": [
+      {
+        "timeSlot": "8 AM - 9 AM",
+        "course": "DAA",
+        "classRoom": "C25-A-314",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "9 AM - 10 AM",
+        "course": "CN(L)",
+        "classRoom": "C25-A-302(L)",
+        "type": "lab",
+        "campus": ""
+      },
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "CN(L)",
+        "classRoom": "C25-A-302(L)",
+        "type": "lab",
+        "campus": ""
+      }
+    ]
+  },
+  "CSE-34": {
+    "monday": [
+      {
+        "timeSlot": "8 AM - 9 AM",
+        "course": "CN",
+        "classRoom": "C25-B-310",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "9 AM - 10 AM",
+        "course": "DAA(L)",
+        "classRoom": "C25-B-103(L)",
+        "type": "lab",
+        "campus": ""
+      },
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "DAA(L)",
+        "classRoom": "C25-B-103(L)",
+        "type": "lab",
+        "campus": ""
+      }
+    ],
+    "tuesday": [
+      {
+        "timeSlot": "11 AM - 12 AM",
+        "course": "CN",
+        "classRoom": "C25-A-007",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "12 AM - 1 AM",
+        "course": "CN(L)",
+        "classRoom": "C25-A-304(L)",
+        "type": "lab",
+        "campus": ""
+      },
+      {
+        "timeSlot": "1 AM - 2 AM",
+        "course": "CN(L)",
+        "classRoom": "C25-A-304(L)",
+        "type": "lab",
+        "campus": ""
+      },
+      {
+        "timeSlot": "3.15 AM - 4.15 AM",
+        "course": "DAA",
+        "classRoom": "C25-A-206",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "4.15 AM - 5.15 AM",
+        "course": "SE",
+        "classRoom": "C25-A-206",
+        "type": "theory",
+        "campus": ""
+      }
+    ],
+    "wednesday": [
+      {
+        "timeSlot": "8 AM - 9 AM",
+        "course": "SE",
+        "classRoom": "C25-B-015",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "9 AM - 10 AM",
+        "course": "CN",
+        "classRoom": "C25-B-015",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "EE",
+        "classRoom": "C25-B-015",
+        "type": "theory",
+        "campus": ""
+      }
+    ],
+    "thursday": [
+      {
+        "timeSlot": "8 AM - 9 AM",
+        "course": "DAA",
+        "classRoom": "C25-B-020",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "9 AM - 10 AM",
+        "course": "SE",
+        "classRoom": "C25-B-020",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "EE",
+        "classRoom": "C25-B-020",
+        "type": "theory",
+        "campus": ""
+      }
+    ],
+    "friday": [
+      {
+        "timeSlot": "8 AM - 9 AM",
+        "course": "EE",
+        "classRoom": "C25-A-307",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "9 AM - 10 AM",
+        "course": "SE",
+        "classRoom": "C25-A-307",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "DAA",
+        "classRoom": "C25-A-307",
+        "type": "theory",
+        "campus": ""
+      }
+    ]
+  },
+  "CSE-35": {
+    "monday": [
+      {
+        "timeSlot": "8 AM - 9 AM",
+        "course": "DAA",
+        "classRoom": "C25-A-211",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "9 AM - 10 AM",
+        "course": "SE",
+        "classRoom": "C25-A-211",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "EE",
+        "classRoom": "C25-A-211",
+        "type": "theory",
+        "campus": ""
+      }
+    ],
+    "tuesday": [
+      {
+        "timeSlot": "9 AM - 10 AM",
+        "course": "DAA(L)",
+        "classRoom": "C25-A-204(L)",
+        "type": "lab",
+        "campus": ""
+      },
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "DAA(L)",
+        "classRoom": "C25-A-204(L)",
+        "type": "lab",
+        "campus": ""
+      },
+      {
+        "timeSlot": "11 AM - 12 AM",
+        "course": "EE",
+        "classRoom": "C25-A-115",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "12 AM - 1 AM",
+        "course": "DAA",
+        "classRoom": "C25-A-115",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "1 AM - 2 AM",
+        "course": "SE",
+        "classRoom": "C25-A-115",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "3.15 AM - 4.15 AM",
+        "course": "CN",
+        "classRoom": "C25-A-207",
+        "type": "theory",
+        "campus": ""
+      }
+    ],
+    "wednesday": [
+      {
+        "timeSlot": "8 AM - 9 AM",
+        "course": "DAA",
+        "classRoom": "C25-A-311",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "9 AM - 10 AM",
+        "course": "CN(L)",
+        "classRoom": "C25-A-104(L)",
+        "type": "lab",
+        "campus": ""
+      },
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "CN(L)",
+        "classRoom": "C25-A-104(L)",
+        "type": "lab",
+        "campus": ""
+      }
+    ],
+    "thursday": [
+      {
+        "timeSlot": "8 AM - 9 AM",
+        "course": "EE",
+        "classRoom": "C25-B-019",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "9 AM - 10 AM",
+        "course": "CN",
+        "classRoom": "C25-B-019",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "SE",
+        "classRoom": "C25-B-019",
+        "type": "theory",
+        "campus": ""
+      }
+    ],
+    "friday": [
+      {
+        "timeSlot": "9 AM - 10 AM",
+        "course": "CN",
+        "classRoom": "C25-A-308",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "SE",
+        "classRoom": "C25-A-308",
+        "type": "theory",
+        "campus": ""
+      }
+    ]
+  },
+  "CSE-36": {
+    "monday": [
+      {
+        "timeSlot": "8 AM - 9 AM",
+        "course": "SE",
+        "classRoom": "C25-A-213",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "9 AM - 10 AM",
+        "course": "CN",
+        "classRoom": "C25-A-213",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "EE",
+        "classRoom": "C25-A-213",
+        "type": "theory",
+        "campus": ""
+      }
+    ],
+    "tuesday": [
+      {
+        "timeSlot": "11 AM - 12 AM",
+        "course": "CN",
+        "classRoom": "C25-A-116",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "12 AM - 1 AM",
+        "course": "DAA(L)",
+        "classRoom": "C25-A-312(L)",
+        "type": "lab",
+        "campus": ""
+      },
+      {
+        "timeSlot": "1 AM - 2 AM",
+        "course": "DAA(L)",
+        "classRoom": "C25-A-312(L)",
+        "type": "lab",
+        "campus": ""
+      },
+      {
+        "timeSlot": "3.15 AM - 4.15 AM",
+        "course": "DAA",
+        "classRoom": "C25-A-208",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "4.15 AM - 5.15 AM",
+        "course": "SE",
+        "classRoom": "C25-A-208",
+        "type": "theory",
+        "campus": ""
+      }
+    ],
+    "wednesday": [
+      {
+        "timeSlot": "8 AM - 9 AM",
+        "course": "CN",
+        "classRoom": "C25-B-019",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "9 AM - 10 AM",
+        "course": "SE",
+        "classRoom": "C25-B-019",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "DAA",
+        "classRoom": "C25-B-019",
+        "type": "theory",
+        "campus": ""
+      }
+    ],
+    "thursday": [
+      {
+        "timeSlot": "8 AM - 9 AM",
+        "course": "EE",
+        "classRoom": "C25-B-101",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "9 AM - 10 AM",
+        "course": "SE",
+        "classRoom": "C25-B-101",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "DAA",
+        "classRoom": "C25-B-101",
+        "type": "theory",
+        "campus": ""
+      }
+    ],
+    "friday": [
+      {
+        "timeSlot": "8 AM - 9 AM",
+        "course": "EE",
+        "classRoom": "C25-A-315",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "9 AM - 10 AM",
+        "course": "CN(L)",
+        "classRoom": "C25-A-303(L)",
+        "type": "lab",
+        "campus": ""
+      },
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "CN(L)",
+        "classRoom": "C25-A-303(L)",
+        "type": "lab",
+        "campus": ""
+      }
+    ]
+  },
+  "CSE-37": {
+    "monday": [
+      {
+        "timeSlot": "8 AM - 9 AM",
+        "course": "DAA",
+        "classRoom": "C25-A-301",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "9 AM - 10 AM",
+        "course": "EE",
+        "classRoom": "C25-A-301",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "SE",
+        "classRoom": "C25-A-301",
+        "type": "theory",
+        "campus": ""
+      }
+    ],
+    "tuesday": [
+      {
+        "timeSlot": "9 AM - 10 AM",
+        "course": "DAA(L)",
+        "classRoom": "C25-A-212(L)",
+        "type": "lab",
+        "campus": ""
+      },
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "DAA(L)",
+        "classRoom": "C25-A-212(L)",
+        "type": "lab",
+        "campus": ""
+      },
+      {
+        "timeSlot": "11 AM - 12 AM",
+        "course": "SE",
+        "classRoom": "C25-A-006",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "3.15 AM - 4.15 AM",
+        "course": "DAA",
+        "classRoom": "C25-A-209",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "4.15 AM - 5.15 AM",
+        "course": "CN",
+        "classRoom": "C25-A-209",
+        "type": "theory",
+        "campus": ""
+      }
+    ],
+    "wednesday": [
+      {
+        "timeSlot": "8 AM - 9 AM",
+        "course": "EE",
+        "classRoom": "C25-B-101",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "9 AM - 10 AM",
+        "course": "CN",
+        "classRoom": "C25-B-101",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "DAA",
+        "classRoom": "C25-B-101",
+        "type": "theory",
+        "campus": ""
+      }
+    ],
+    "thursday": [
+      {
+        "timeSlot": "8 AM - 9 AM",
+        "course": "SE",
+        "classRoom": "C25-A-118",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "9 AM - 10 AM",
+        "course": "CN(L)",
+        "classRoom": "C25-A-104(L)",
+        "type": "lab",
+        "campus": ""
+      },
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "CN(L)",
+        "classRoom": "C25-A-104(L)",
+        "type": "lab",
+        "campus": ""
+      }
+    ],
+    "friday": [
+      {
+        "timeSlot": "8 AM - 9 AM",
+        "course": "EE",
+        "classRoom": "C25-A-309",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "9 AM - 10 AM",
+        "course": "SE",
+        "classRoom": "C25-A-309",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "CN",
+        "classRoom": "C25-A-309",
+        "type": "theory",
+        "campus": ""
+      }
+    ]
+  },
+  "CSE-38": {
+    "monday": [
+      {
+        "timeSlot": "9 AM - 10 AM",
+        "course": "SE",
+        "classRoom": "C25-A-306",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "DAA",
+        "classRoom": "C25-A-306",
+        "type": "theory",
+        "campus": ""
+      }
+    ],
+    "tuesday": [
+      {
+        "timeSlot": "9 AM - 10 AM",
+        "course": "DAA(L)",
+        "classRoom": "C25-A-302(L)",
+        "type": "lab",
+        "campus": ""
+      },
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "DAA(L)",
+        "classRoom": "C25-A-302(L)",
+        "type": "lab",
+        "campus": ""
+      },
+      {
+        "timeSlot": "11 AM - 12 AM",
+        "course": "SE",
+        "classRoom": "C25-A-111",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "12 AM - 1 AM",
+        "course": "EE",
+        "classRoom": "C25-A-111",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "3.15 AM - 4.15 AM",
+        "course": "DAA",
+        "classRoom": "C25-A-210",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "4.15 AM - 5.15 AM",
+        "course": "CN",
+        "classRoom": "C25-A-210",
+        "type": "theory",
+        "campus": ""
+      }
+    ],
+    "wednesday": [
+      {
+        "timeSlot": "8 AM - 9 AM",
+        "course": "SE",
+        "classRoom": "C25-B-106",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "9 AM - 10 AM",
+        "course": "EE",
+        "classRoom": "C25-B-106",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "CN",
+        "classRoom": "C25-B-106",
+        "type": "theory",
+        "campus": ""
+      }
+    ],
+    "thursday": [
+      {
+        "timeSlot": "8 AM - 9 AM",
+        "course": "EE",
+        "classRoom": "C25-B-106",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "9 AM - 10 AM",
+        "course": "CN",
+        "classRoom": "C25-B-106",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "DAA",
+        "classRoom": "C25-B-106",
+        "type": "theory",
+        "campus": ""
+      }
+    ],
+    "friday": [
+      {
+        "timeSlot": "8 AM - 9 AM",
+        "course": "SE",
+        "classRoom": "C25-A-316",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "9 AM - 10 AM",
+        "course": "CN(L)",
+        "classRoom": "C25-A-304(L)",
+        "type": "lab",
+        "campus": ""
+      },
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "CN(L)",
+        "classRoom": "C25-A-304(L)",
+        "type": "lab",
+        "campus": ""
+      }
+    ]
+  },
+  "CSE-39": {
+    "monday": [
+      {
+        "timeSlot": "8 AM - 9 AM",
+        "course": "DAA",
+        "classRoom": "C25-A-307",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "9 AM - 10 AM",
+        "course": "SE",
+        "classRoom": "C25-A-307",
+        "type": "theory",
+        "campus": ""
+      }
+    ],
+    "tuesday": [
+      {
+        "timeSlot": "9 AM - 10 AM",
+        "course": "CN(L)",
+        "classRoom": "C25-A-303(L)",
+        "type": "lab",
+        "campus": ""
+      },
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "CN(L)",
+        "classRoom": "C25-A-303(L)",
+        "type": "lab",
+        "campus": ""
+      },
+      {
+        "timeSlot": "11 AM - 12 AM",
+        "course": "CN",
+        "classRoom": "C25-A-113",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "12 AM - 1 AM",
+        "course": "SE",
+        "classRoom": "C25-A-113",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "1 AM - 2 AM",
+        "course": "EE",
+        "classRoom": "C25-A-113",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "3.15 AM - 4.15 AM",
+        "course": "DAA(L)",
+        "classRoom": "C25-B-104(L)",
+        "type": "lab",
+        "campus": ""
+      },
+      {
+        "timeSlot": "4.15 AM - 5.15 AM",
+        "course": "DAA(L)",
+        "classRoom": "C25-B-104(L)",
+        "type": "lab",
+        "campus": ""
+      }
+    ],
+    "wednesday": [
+      {
+        "timeSlot": "8 AM - 9 AM",
+        "course": "SE",
+        "classRoom": "C25-B-107",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "9 AM - 10 AM",
+        "course": "EE",
+        "classRoom": "C25-B-107",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "DAA",
+        "classRoom": "C25-B-107",
+        "type": "theory",
+        "campus": ""
+      }
+    ],
+    "thursday": [
+      {
+        "timeSlot": "9 AM - 10 AM",
+        "course": "DAA",
+        "classRoom": "C25-B-107",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "CN",
+        "classRoom": "C25-B-107",
+        "type": "theory",
+        "campus": ""
+      }
+    ],
+    "friday": [
+      {
+        "timeSlot": "8 AM - 9 AM",
+        "course": "SE",
+        "classRoom": "C25-A-310",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "9 AM - 10 AM",
+        "course": "CN",
+        "classRoom": "C25-A-310",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "EE",
+        "classRoom": "C25-A-310",
+        "type": "theory",
+        "campus": ""
+      }
+    ]
+  },
+  "CSE-40": {
+    "monday": [
+      {
+        "timeSlot": "8 AM - 9 AM",
+        "course": "CN",
+        "classRoom": "C25-A-308",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "9 AM - 10 AM",
+        "course": "EE",
+        "classRoom": "C25-A-308",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "SE",
+        "classRoom": "C25-A-308",
+        "type": "theory",
+        "campus": ""
+      }
+    ],
+    "tuesday": [
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "EE",
+        "classRoom": "C25-A-309",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "11 AM - 12 AM",
+        "course": "SE",
+        "classRoom": "C25-A-309",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "12 AM - 1 AM",
+        "course": "DAA",
+        "classRoom": "C25-A-309",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "3.15 AM - 4.15 AM",
+        "course": "CN(L)",
+        "classRoom": "C25-A-102(L)",
+        "type": "lab",
+        "campus": ""
+      },
+      {
+        "timeSlot": "4.15 AM - 5.15 AM",
+        "course": "CN(L)",
+        "classRoom": "C25-A-102(L)",
+        "type": "lab",
+        "campus": ""
+      }
+    ],
+    "wednesday": [
+      {
+        "timeSlot": "8 AM - 9 AM",
+        "course": "SE",
+        "classRoom": "C25-B-108",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "9 AM - 10 AM",
+        "course": "CN",
+        "classRoom": "C25-B-108",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "DAA",
+        "classRoom": "C25-B-108",
+        "type": "theory",
+        "campus": ""
+      }
+    ],
+    "thursday": [
+      {
+        "timeSlot": "8 AM - 9 AM",
+        "course": "SE",
+        "classRoom": "C25-B-108",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "9 AM - 10 AM",
+        "course": "DAA",
+        "classRoom": "C25-B-108",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "EE",
+        "classRoom": "C25-B-108",
+        "type": "theory",
+        "campus": ""
+      }
+    ],
+    "friday": [
+      {
+        "timeSlot": "8 AM - 9 AM",
+        "course": "CN",
+        "classRoom": "C25-A-318",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "9 AM - 10 AM",
+        "course": "DAA(L)",
+        "classRoom": "C25-A-312(L)",
+        "type": "lab",
+        "campus": ""
+      },
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "DAA(L)",
+        "classRoom": "C25-A-312(L)",
+        "type": "lab",
+        "campus": ""
+      }
+    ]
+  },
+  "CSE-41": {
+    "monday": [
+      {
+        "timeSlot": "8 AM - 9 AM",
+        "course": "CN",
+        "classRoom": "C25-B-319",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "9 AM - 10 AM",
+        "course": "DAA(L)",
+        "classRoom": "C25-B-104(L)",
+        "type": "lab",
+        "campus": ""
+      },
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "DAA(L)",
+        "classRoom": "C25-B-104(L)",
+        "type": "lab",
+        "campus": ""
+      }
+    ],
+    "tuesday": [
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "EE",
+        "classRoom": "C25-B-106",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "11 AM - 12 AM",
+        "course": "SE",
+        "classRoom": "C25-B-106",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "12 AM - 1 AM",
+        "course": "CN(L)",
+        "classRoom": "C25-B-102(L)",
+        "type": "lab",
+        "campus": ""
+      },
+      {
+        "timeSlot": "1 AM - 2 AM",
+        "course": "CN(L)",
+        "classRoom": "C25-B-102(L)",
+        "type": "lab",
+        "campus": ""
+      },
+      {
+        "timeSlot": "3.15 AM - 4.15 AM",
+        "course": "DAA",
+        "classRoom": "C25-A-211",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "4.15 AM - 5.15 AM",
+        "course": "CN",
+        "classRoom": "C25-A-211",
+        "type": "theory",
+        "campus": ""
+      }
+    ],
+    "wednesday": [
+      {
+        "timeSlot": "8 AM - 9 AM",
+        "course": "DAA",
+        "classRoom": "C25-B-109",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "9 AM - 10 AM",
+        "course": "EE",
+        "classRoom": "C25-B-109",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "SE",
+        "classRoom": "C25-B-109",
+        "type": "theory",
+        "campus": ""
+      }
+    ],
+    "thursday": [
+      {
+        "timeSlot": "8 AM - 9 AM",
+        "course": "SE",
+        "classRoom": "C25-B-109",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "9 AM - 10 AM",
+        "course": "EE",
+        "classRoom": "C25-B-109",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "DAA",
+        "classRoom": "C25-B-109",
+        "type": "theory",
+        "campus": ""
+      }
+    ],
+    "friday": [
+      {
+        "timeSlot": "8 AM - 9 AM",
+        "course": "CN",
+        "classRoom": "C25-A-311",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "9 AM - 10 AM",
+        "course": "SE",
+        "classRoom": "C25-A-311",
+        "type": "theory",
+        "campus": ""
+      }
+    ]
+  },
+  "CSE-42": {
+    "monday": [
+      {
+        "timeSlot": "8 AM - 9 AM",
+        "course": "DAA",
+        "classRoom": "C25-A-309",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "9 AM - 10 AM",
+        "course": "CN",
+        "classRoom": "C25-A-309",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "EE",
+        "classRoom": "C25-A-309",
+        "type": "theory",
+        "campus": ""
+      }
+    ],
+    "tuesday": [
+      {
+        "timeSlot": "9 AM - 10 AM",
+        "course": "DAA(L)",
+        "classRoom": "C25-A-304(L)",
+        "type": "lab",
+        "campus": ""
+      },
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "DAA(L)",
+        "classRoom": "C25-A-304(L)",
+        "type": "lab",
+        "campus": ""
+      },
+      {
+        "timeSlot": "11 AM - 12 AM",
+        "course": "EE",
+        "classRoom": "C25-A-107",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "12 AM - 1 AM",
+        "course": "CN",
+        "classRoom": "C25-A-107",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "3.15 AM - 4.15 AM",
+        "course": "DAA",
+        "classRoom": "C25-A-213",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "4.15 AM - 5.15 AM",
+        "course": "SE",
+        "classRoom": "C25-A-213",
+        "type": "theory",
+        "campus": ""
+      }
+    ],
+    "wednesday": [
+      {
+        "timeSlot": "9 AM - 10 AM",
+        "course": "SE",
+        "classRoom": "C25-B-110",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "DAA",
+        "classRoom": "C25-B-110",
+        "type": "theory",
+        "campus": ""
+      }
+    ],
+    "thursday": [
+      {
+        "timeSlot": "8 AM - 9 AM",
+        "course": "SE",
+        "classRoom": "C25-A-214",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "9 AM - 10 AM",
+        "course": "CN(L)",
+        "classRoom": "C25-A-202(L)",
+        "type": "lab",
+        "campus": ""
+      },
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "CN(L)",
+        "classRoom": "C25-A-202(L)",
+        "type": "lab",
+        "campus": ""
+      }
+    ],
+    "friday": [
+      {
+        "timeSlot": "8 AM - 9 AM",
+        "course": "CN",
+        "classRoom": "C25-A-313",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "9 AM - 10 AM",
+        "course": "SE",
+        "classRoom": "C25-A-313",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "EE",
+        "classRoom": "C25-A-313",
+        "type": "theory",
+        "campus": ""
+      }
+    ]
+  },
+  "CSE-43": {
+    "monday": [
+      {
+        "timeSlot": "8 AM - 9 AM",
+        "course": "DAA",
+        "classRoom": "C25-A-310",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "9 AM - 10 AM",
+        "course": "EE",
+        "classRoom": "C25-A-310",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "SE",
+        "classRoom": "C25-A-310",
+        "type": "theory",
+        "campus": ""
+      }
+    ],
+    "tuesday": [
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "DAA",
+        "classRoom": "C25-B-313",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "11 AM - 12 AM",
+        "course": "CN",
+        "classRoom": "C25-B-313",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "12 AM - 1 AM",
+        "course": "CN(L)",
+        "classRoom": "C25-B-103(L)",
+        "type": "lab",
+        "campus": ""
+      },
+      {
+        "timeSlot": "1 AM - 2 AM",
+        "course": "CN(L)",
+        "classRoom": "C25-B-103(L)",
+        "type": "lab",
+        "campus": ""
+      },
+      {
+        "timeSlot": "3.15 AM - 4.15 AM",
+        "course": "EE",
+        "classRoom": "C25-A-301",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "4.15 AM - 5.15 AM",
+        "course": "SE",
+        "classRoom": "C25-A-301",
+        "type": "theory",
+        "campus": ""
+      }
+    ],
+    "wednesday": [
+      {
+        "timeSlot": "8 AM - 9 AM",
+        "course": "CN",
+        "classRoom": "C25-A-014",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "9 AM - 10 AM",
+        "course": "DAA(L)",
+        "classRoom": "C25-A-202(L)",
+        "type": "lab",
+        "campus": ""
+      },
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "DAA(L)",
+        "classRoom": "C25-A-202(L)",
+        "type": "lab",
+        "campus": ""
+      }
+    ],
+    "thursday": [
+      {
+        "timeSlot": "9 AM - 10 AM",
+        "course": "SE",
+        "classRoom": "C25-B-110",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "DAA",
+        "classRoom": "C25-B-110",
+        "type": "theory",
+        "campus": ""
+      }
+    ],
+    "friday": [
+      {
+        "timeSlot": "8 AM - 9 AM",
+        "course": "CN",
+        "classRoom": "C25-B-020",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "9 AM - 10 AM",
+        "course": "SE",
+        "classRoom": "C25-B-020",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "EE",
+        "classRoom": "C25-B-020",
+        "type": "theory",
+        "campus": ""
+      }
+    ]
+  },
+  "CSE-44": {
+    "monday": [
+      {
+        "timeSlot": "8 AM - 9 AM",
+        "course": "EE",
+        "classRoom": "C25-A-311",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "9 AM - 10 AM",
+        "course": "CN",
+        "classRoom": "C25-A-311",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "SE",
+        "classRoom": "C25-A-311",
+        "type": "theory",
+        "campus": ""
+      }
+    ],
+    "tuesday": [
+      {
+        "timeSlot": "11 AM - 12 AM",
+        "course": "EE",
+        "classRoom": "C25-B-315",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "12 AM - 1 AM",
+        "course": "CN(L)",
+        "classRoom": "C25-B-104(L)",
+        "type": "lab",
+        "campus": ""
+      },
+      {
+        "timeSlot": "1 AM - 2 AM",
+        "course": "CN(L)",
+        "classRoom": "C25-B-104(L)",
+        "type": "lab",
+        "campus": ""
+      },
+      {
+        "timeSlot": "3.15 AM - 4.15 AM",
+        "course": "SE",
+        "classRoom": "C25-A-306",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "4.15 AM - 5.15 AM",
+        "course": "DAA",
+        "classRoom": "C25-A-306",
+        "type": "theory",
+        "campus": ""
+      }
+    ],
+    "wednesday": [
+      {
+        "timeSlot": "8 AM - 9 AM",
+        "course": "SE",
+        "classRoom": "C25-B-119",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "9 AM - 10 AM",
+        "course": "DAA",
+        "classRoom": "C25-B-119",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "CN",
+        "classRoom": "C25-B-119",
+        "type": "theory",
+        "campus": ""
+      }
+    ],
+    "thursday": [
+      {
+        "timeSlot": "8 AM - 9 AM",
+        "course": "CN",
+        "classRoom": "C25-A-215",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "9 AM - 10 AM",
+        "course": "DAA(L)",
+        "classRoom": "C25-A-203(L)",
+        "type": "lab",
+        "campus": ""
+      },
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "DAA(L)",
+        "classRoom": "C25-A-203(L)",
+        "type": "lab",
+        "campus": ""
+      }
+    ],
+    "friday": [
+      {
+        "timeSlot": "8 AM - 9 AM",
+        "course": "EE",
+        "classRoom": "C25-B-019",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "9 AM - 10 AM",
+        "course": "SE",
+        "classRoom": "C25-B-019",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "DAA",
+        "classRoom": "C25-B-019",
+        "type": "theory",
+        "campus": ""
+      }
+    ]
+  },
+  "CSE-45": {
+    "monday": [
+      {
+        "timeSlot": "8 AM - 9 AM",
+        "course": "EE",
+        "classRoom": "C25-A-313",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "9 AM - 10 AM",
+        "course": "CN",
+        "classRoom": "C25-A-313",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "SE",
+        "classRoom": "C25-A-313",
+        "type": "theory",
+        "campus": ""
+      }
+    ],
+    "tuesday": [
+      {
+        "timeSlot": "9 AM - 10 AM",
+        "course": "CN(L)",
+        "classRoom": "C25-A-312(L)",
+        "type": "lab",
+        "campus": ""
+      },
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "CN(L)",
+        "classRoom": "C25-A-312(L)",
+        "type": "lab",
+        "campus": ""
+      },
+      {
+        "timeSlot": "11 AM - 12 AM",
+        "course": "EE",
+        "classRoom": "C25-A-301",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "12 AM - 1 AM",
+        "course": "DAA",
+        "classRoom": "C25-A-301",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "3.15 AM - 4.15 AM",
+        "course": "SE",
+        "classRoom": "C25-A-307",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "4.15 AM - 5.15 AM",
+        "course": "CN",
+        "classRoom": "C25-A-307",
+        "type": "theory",
+        "campus": ""
+      }
+    ],
+    "wednesday": [
+      {
+        "timeSlot": "8 AM - 9 AM",
+        "course": "EE",
+        "classRoom": "C25-B-013",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "9 AM - 10 AM",
+        "course": "SE",
+        "classRoom": "C25-B-013",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "DAA",
+        "classRoom": "C25-B-013",
+        "type": "theory",
+        "campus": ""
+      }
+    ],
+    "thursday": [
+      {
+        "timeSlot": "8 AM - 9 AM",
+        "course": "SE",
+        "classRoom": "C25-B-119",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "9 AM - 10 AM",
+        "course": "DAA",
+        "classRoom": "C25-B-119",
+        "type": "theory",
+        "campus": ""
+      }
+    ],
+    "friday": [
+      {
+        "timeSlot": "8 AM - 9 AM",
+        "course": "CN",
+        "classRoom": "C25-B-210",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "9 AM - 10 AM",
+        "course": "DAA(L)",
+        "classRoom": "C25-B-102(L)",
+        "type": "lab",
+        "campus": ""
+      },
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "DAA(L)",
+        "classRoom": "C25-B-102(L)",
+        "type": "lab",
+        "campus": ""
+      }
+    ]
+  },
+  "CSE-46": {
+    "monday": [
+      {
+        "timeSlot": "8 AM - 9 AM",
+        "course": "DAA",
+        "classRoom": "C25-B-115",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "9 AM - 10 AM",
+        "course": "SE",
+        "classRoom": "C25-B-115",
+        "type": "theory",
+        "campus": ""
+      }
+    ],
+    "tuesday": [
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "DAA",
+        "classRoom": "C25-B-316",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "11 AM - 12 AM",
+        "course": "CN",
+        "classRoom": "C25-B-316",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "12 AM - 1 AM",
+        "course": "DAA(L)",
+        "classRoom": "C25-B-304(L)",
+        "type": "lab",
+        "campus": ""
+      },
+      {
+        "timeSlot": "1 AM - 2 AM",
+        "course": "DAA(L)",
+        "classRoom": "C25-B-304(L)",
+        "type": "lab",
+        "campus": ""
+      },
+      {
+        "timeSlot": "3.15 AM - 4.15 AM",
+        "course": "SE",
+        "classRoom": "C25-B-107",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "4.15 AM - 5.15 AM",
+        "course": "EE",
+        "classRoom": "C25-B-107",
+        "type": "theory",
+        "campus": ""
+      }
+    ],
+    "wednesday": [
+      {
+        "timeSlot": "8 AM - 9 AM",
+        "course": "CN",
+        "classRoom": "C25-B-206",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "9 AM - 10 AM",
+        "course": "SE",
+        "classRoom": "C25-B-206",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "EE",
+        "classRoom": "C25-B-206",
+        "type": "theory",
+        "campus": ""
+      }
+    ],
+    "thursday": [
+      {
+        "timeSlot": "8 AM - 9 AM",
+        "course": "SE",
+        "classRoom": "C25-B-201",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "9 AM - 10 AM",
+        "course": "EE",
+        "classRoom": "C25-B-201",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "CN",
+        "classRoom": "C25-B-201",
+        "type": "theory",
+        "campus": ""
+      }
+    ],
+    "friday": [
+      {
+        "timeSlot": "8 AM - 9 AM",
+        "course": "DAA",
+        "classRoom": "C25-B-219",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "9 AM - 10 AM",
+        "course": "CN(L)",
+        "classRoom": "C25-B-103(L)",
+        "type": "lab",
+        "campus": ""
+      },
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "CN(L)",
+        "classRoom": "C25-B-103(L)",
+        "type": "lab",
+        "campus": ""
+      }
+    ]
+  },
+  "CSE-47": {
+    "monday": [
+      {
+        "timeSlot": "8 AM - 9 AM",
+        "course": "DAA",
+        "classRoom": "C25-B-019",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "9 AM - 10 AM",
+        "course": "SE",
+        "classRoom": "C25-B-019",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "EE",
+        "classRoom": "C25-B-019",
+        "type": "theory",
+        "campus": ""
+      }
+    ],
+    "tuesday": [
+      {
+        "timeSlot": "9 AM - 10 AM",
+        "course": "CN(L)",
+        "classRoom": "C25-B-102(L)",
+        "type": "lab",
+        "campus": ""
+      },
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "CN(L)",
+        "classRoom": "C25-B-102(L)",
+        "type": "lab",
+        "campus": ""
+      },
+      {
+        "timeSlot": "11 AM - 12 AM",
+        "course": "EE",
+        "classRoom": "C25-B-310",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "12 AM - 1 AM",
+        "course": "CN",
+        "classRoom": "C25-B-310",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "3.15 AM - 4.15 AM",
+        "course": "DAA",
+        "classRoom": "C25-A-308",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "4.15 AM - 5.15 AM",
+        "course": "SE",
+        "classRoom": "C25-A-308",
+        "type": "theory",
+        "campus": ""
+      }
+    ],
+    "wednesday": [
+      {
+        "timeSlot": "8 AM - 9 AM",
+        "course": "CN",
+        "classRoom": "C25-B-207",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "9 AM - 10 AM",
+        "course": "DAA",
+        "classRoom": "C25-B-207",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "EE",
+        "classRoom": "C25-B-207",
+        "type": "theory",
+        "campus": ""
+      }
+    ],
+    "thursday": [
+      {
+        "timeSlot": "8 AM - 9 AM",
+        "course": "SE",
+        "classRoom": "C25-A-216",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "9 AM - 10 AM",
+        "course": "DAA(L)",
+        "classRoom": "C25-A-204(L)",
+        "type": "lab",
+        "campus": ""
+      },
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "DAA(L)",
+        "classRoom": "C25-A-204(L)",
+        "type": "lab",
+        "campus": ""
+      }
+    ],
+    "friday": [
+      {
+        "timeSlot": "9 AM - 10 AM",
+        "course": "SE",
+        "classRoom": "C25-B-101",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "CN",
+        "classRoom": "C25-B-101",
+        "type": "theory",
+        "campus": ""
+      }
+    ]
+  },
+  "CSE-48": {
+    "monday": [
+      {
+        "timeSlot": "8 AM - 9 AM",
+        "course": "EE",
+        "classRoom": "C25-B-101",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "9 AM - 10 AM",
+        "course": "SE",
+        "classRoom": "C25-B-101",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "CN",
+        "classRoom": "C25-B-101",
+        "type": "theory",
+        "campus": ""
+      }
+    ],
+    "tuesday": [
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "EE",
+        "classRoom": "C25-B-301",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "11 AM - 12 AM",
+        "course": "DAA",
+        "classRoom": "C25-B-301",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "12 AM - 1 AM",
+        "course": "SE",
+        "classRoom": "C25-B-301",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "1 AM - 2 AM",
+        "course": "CN",
+        "classRoom": "C25-B-301",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "3.15 AM - 4.15 AM",
+        "course": "CN(L)",
+        "classRoom": "C25-B-202(L)",
+        "type": "lab",
+        "campus": ""
+      },
+      {
+        "timeSlot": "4.15 AM - 5.15 AM",
+        "course": "CN(L)",
+        "classRoom": "C25-B-202(L)",
+        "type": "lab",
+        "campus": ""
+      }
+    ],
+    "wednesday": [
+      {
+        "timeSlot": "8 AM - 9 AM",
+        "course": "SE",
+        "classRoom": "C25-B-208",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "9 AM - 10 AM",
+        "course": "DAA",
+        "classRoom": "C25-B-208",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "CN",
+        "classRoom": "C25-B-208",
+        "type": "theory",
+        "campus": ""
+      }
+    ],
+    "thursday": [
+      {
+        "timeSlot": "9 AM - 10 AM",
+        "course": "SE",
+        "classRoom": "C25-B-206",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "EE",
+        "classRoom": "C25-B-206",
+        "type": "theory",
+        "campus": ""
+      }
+    ],
+    "friday": [
+      {
+        "timeSlot": "8 AM - 9 AM",
+        "course": "DAA",
+        "classRoom": "C25-B-301",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "9 AM - 10 AM",
+        "course": "DAA(L)",
+        "classRoom": "C25-B-104(L)",
+        "type": "lab",
+        "campus": ""
+      },
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "DAA(L)",
+        "classRoom": "C25-B-104(L)",
+        "type": "lab",
+        "campus": ""
+      }
+    ]
+  },
+  "IT-1": {
+    "monday": [
+      {
+        "timeSlot": "8 AM - 9 AM",
+        "course": "SE",
+        "classRoom": "C25-B-322",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "9 AM - 10 AM",
+        "course": "DAA(L)",
+        "classRoom": "C25-B-312(L)",
+        "type": "lab",
+        "campus": ""
+      },
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "DAA(L)",
+        "classRoom": "C25-B-312(L)",
+        "type": "lab",
+        "campus": ""
+      }
+    ],
+    "tuesday": [
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "CN",
+        "classRoom": "C25-B-306",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "11 AM - 12 AM",
+        "course": "SE",
+        "classRoom": "C25-B-306",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "12 AM - 1 AM",
+        "course": "OB",
+        "classRoom": "C25-B-306",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "3.15 AM - 4.15 AM",
+        "course": "CN(L)",
+        "classRoom": "C25-B-203(L)",
+        "type": "lab",
+        "campus": ""
+      },
+      {
+        "timeSlot": "4.15 AM - 5.15 AM",
+        "course": "CN(L)",
+        "classRoom": "C25-B-203(L)",
+        "type": "lab",
+        "campus": ""
+      }
+    ],
+    "wednesday": [
+      {
+        "timeSlot": "8 AM - 9 AM",
+        "course": "DAA",
+        "classRoom": "C25-B-209",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "9 AM - 10 AM",
+        "course": "OB",
+        "classRoom": "C25-B-209",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "SE",
+        "classRoom": "C25-B-209",
+        "type": "theory",
+        "campus": ""
+      }
+    ],
+    "thursday": [
+      {
+        "timeSlot": "8 AM - 9 AM",
+        "course": "DAA",
+        "classRoom": "C25-B-207",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "9 AM - 10 AM",
+        "course": "OB",
+        "classRoom": "C25-B-207",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "CN",
+        "classRoom": "C25-B-207",
+        "type": "theory",
+        "campus": ""
+      }
+    ],
+    "friday": [
+      {
+        "timeSlot": "8 AM - 9 AM",
+        "course": "CN",
+        "classRoom": "C25-B-106",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "9 AM - 10 AM",
+        "course": "DAA",
+        "classRoom": "C25-B-106",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "SE",
+        "classRoom": "C25-B-106",
+        "type": "theory",
+        "campus": ""
+      }
+    ]
+  },
+  "IT-2": {
+    "monday": [
+      {
+        "timeSlot": "8 AM - 9 AM",
+        "course": "SE",
+        "classRoom": "C25-B-320",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "9 AM - 10 AM",
+        "course": "CN(L)",
+        "classRoom": "C25-B-202(L)",
+        "type": "lab",
+        "campus": ""
+      },
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "CN(L)",
+        "classRoom": "C25-B-202(L)",
+        "type": "lab",
+        "campus": ""
+      }
+    ],
+    "tuesday": [
+      {
+        "timeSlot": "9 AM - 10 AM",
+        "course": "DAA(L)",
+        "classRoom": "C25-B-103(L)",
+        "type": "lab",
+        "campus": ""
+      },
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "DAA(L)",
+        "classRoom": "C25-B-103(L)",
+        "type": "lab",
+        "campus": ""
+      },
+      {
+        "timeSlot": "11 AM - 12 AM",
+        "course": "OB",
+        "classRoom": "C25-B-309",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "12 AM - 1 AM",
+        "course": "SE",
+        "classRoom": "C25-B-309",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "3.15 AM - 4.15 AM",
+        "course": "CN",
+        "classRoom": "C25-A-309",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "4.15 AM - 5.15 AM",
+        "course": "DAA",
+        "classRoom": "C25-A-309",
+        "type": "theory",
+        "campus": ""
+      }
+    ],
+    "wednesday": [
+      {
+        "timeSlot": "9 AM - 10 AM",
+        "course": "OB",
+        "classRoom": "C25-B-210",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "SE",
+        "classRoom": "C25-B-210",
+        "type": "theory",
+        "campus": ""
+      }
+    ],
+    "thursday": [
+      {
+        "timeSlot": "8 AM - 9 AM",
+        "course": "CN",
+        "classRoom": "C25-B-208",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "9 AM - 10 AM",
+        "course": "DAA",
+        "classRoom": "C25-B-208",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "OB",
+        "classRoom": "C25-B-208",
+        "type": "theory",
+        "campus": ""
+      }
+    ],
+    "friday": [
+      {
+        "timeSlot": "8 AM - 9 AM",
+        "course": "CN",
+        "classRoom": "C25-B-107",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "9 AM - 10 AM",
+        "course": "DAA",
+        "classRoom": "C25-B-107",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "SE",
+        "classRoom": "C25-B-107",
+        "type": "theory",
+        "campus": ""
+      }
+    ]
+  },
+  "IT-3": {
+    "monday": [
+      {
+        "timeSlot": "8 AM - 9 AM",
+        "course": "CN",
+        "classRoom": "C25-B-106",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "9 AM - 10 AM",
+        "course": "OB",
+        "classRoom": "C25-B-106",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "SE",
+        "classRoom": "C25-B-106",
+        "type": "theory",
+        "campus": ""
+      }
+    ],
+    "tuesday": [
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "DAA",
+        "classRoom": "C25-B-317",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "11 AM - 12 AM",
+        "course": "OB",
+        "classRoom": "C25-B-317",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "12 AM - 1 AM",
+        "course": "DAA(L)",
+        "classRoom": "C25-B-202(L)",
+        "type": "lab",
+        "campus": ""
+      },
+      {
+        "timeSlot": "1 AM - 2 AM",
+        "course": "DAA(L)",
+        "classRoom": "C25-B-202(L)",
+        "type": "lab",
+        "campus": ""
+      },
+      {
+        "timeSlot": "3.15 AM - 4.15 AM",
+        "course": "SE",
+        "classRoom": "C25-A-310",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "4.15 AM - 5.15 AM",
+        "course": "CN",
+        "classRoom": "C25-A-310",
+        "type": "theory",
+        "campus": ""
+      }
+    ],
+    "wednesday": [
+      {
+        "timeSlot": "8 AM - 9 AM",
+        "course": "DAA",
+        "classRoom": "C25-B-219",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "9 AM - 10 AM",
+        "course": "SE",
+        "classRoom": "C25-B-219",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "OB",
+        "classRoom": "C25-B-219",
+        "type": "theory",
+        "campus": ""
+      }
+    ],
+    "thursday": [
+      {
+        "timeSlot": "9 AM - 10 AM",
+        "course": "SE",
+        "classRoom": "C25-B-209",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "CN",
+        "classRoom": "C25-B-209",
+        "type": "theory",
+        "campus": ""
+      }
+    ],
+    "friday": [
+      {
+        "timeSlot": "8 AM - 9 AM",
+        "course": "DAA",
+        "classRoom": "C25-B-306",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "9 AM - 10 AM",
+        "course": "CN(L)",
+        "classRoom": "C25-B-312(L)",
+        "type": "lab",
+        "campus": ""
+      },
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "CN(L)",
+        "classRoom": "C25-B-312(L)",
+        "type": "lab",
+        "campus": ""
+      }
+    ]
+  },
+  "IT-4": {
+    "monday": [
+      {
+        "timeSlot": "8 AM - 9 AM",
+        "course": "SE",
+        "classRoom": "C25-B-107",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "9 AM - 10 AM",
+        "course": "DAA",
+        "classRoom": "C25-B-107",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "OB",
+        "classRoom": "C25-B-107",
+        "type": "theory",
+        "campus": ""
+      }
+    ],
+    "tuesday": [
+      {
+        "timeSlot": "11 AM - 12 AM",
+        "course": "SE",
+        "classRoom": "C25-B-220",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "12 AM - 1 AM",
+        "course": "CN",
+        "classRoom": "C25-B-220",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "1 AM - 2 AM",
+        "course": "OB",
+        "classRoom": "C25-B-220",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "3.15 AM - 4.15 AM",
+        "course": "CN(L)",
+        "classRoom": "C25-B-204(L)",
+        "type": "lab",
+        "campus": ""
+      },
+      {
+        "timeSlot": "4.15 AM - 5.15 AM",
+        "course": "CN(L)",
+        "classRoom": "C25-B-204(L)",
+        "type": "lab",
+        "campus": ""
+      }
+    ],
+    "wednesday": [
+      {
+        "timeSlot": "8 AM - 9 AM",
+        "course": "SE",
+        "classRoom": "C25-B-301",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "9 AM - 10 AM",
+        "course": "CN",
+        "classRoom": "C25-B-301",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "DAA",
+        "classRoom": "C25-B-301",
+        "type": "theory",
+        "campus": ""
+      }
+    ],
+    "thursday": [
+      {
+        "timeSlot": "8 AM - 9 AM",
+        "course": "OB",
+        "classRoom": "C25-A-218",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "9 AM - 10 AM",
+        "course": "DAA(L)",
+        "classRoom": "C25-A-212(L)",
+        "type": "lab",
+        "campus": ""
+      },
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "DAA(L)",
+        "classRoom": "C25-A-212(L)",
+        "type": "lab",
+        "campus": ""
+      }
+    ],
+    "friday": [
+      {
+        "timeSlot": "8 AM - 9 AM",
+        "course": "DAA",
+        "classRoom": "C25-B-108",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "9 AM - 10 AM",
+        "course": "SE",
+        "classRoom": "C25-B-108",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "CN",
+        "classRoom": "C25-B-108",
+        "type": "theory",
+        "campus": ""
+      }
+    ]
+  },
+  "IT-5": {
+    "monday": [
+      {
+        "timeSlot": "8 AM - 9 AM",
+        "course": "OB",
+        "classRoom": "C25-B-108",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "9 AM - 10 AM",
+        "course": "SE",
+        "classRoom": "C25-B-108",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "DAA",
+        "classRoom": "C25-B-108",
+        "type": "theory",
+        "campus": ""
+      }
+    ],
+    "tuesday": [
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "OB",
+        "classRoom": "C25-B-222",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "11 AM - 12 AM",
+        "course": "DAA",
+        "classRoom": "C25-B-222",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "12 AM - 1 AM",
+        "course": "SE",
+        "classRoom": "C25-B-222",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "3.15 AM - 4.15 AM",
+        "course": "CN(L)",
+        "classRoom": "C25-B-212(L)",
+        "type": "lab",
+        "campus": ""
+      },
+      {
+        "timeSlot": "4.15 AM - 5.15 AM",
+        "course": "CN(L)",
+        "classRoom": "C25-B-212(L)",
+        "type": "lab",
+        "campus": ""
+      }
+    ],
+    "wednesday": [
+      {
+        "timeSlot": "8 AM - 9 AM",
+        "course": "DAA",
+        "classRoom": "C25-B-306",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "9 AM - 10 AM",
+        "course": "SE",
+        "classRoom": "C25-B-306",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "CN",
+        "classRoom": "C25-B-306",
+        "type": "theory",
+        "campus": ""
+      }
+    ],
+    "thursday": [
+      {
+        "timeSlot": "8 AM - 9 AM",
+        "course": "OB",
+        "classRoom": "C25-B-210",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "9 AM - 10 AM",
+        "course": "CN",
+        "classRoom": "C25-B-210",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "SE",
+        "classRoom": "C25-B-210",
+        "type": "theory",
+        "campus": ""
+      }
+    ],
+    "friday": [
+      {
+        "timeSlot": "8 AM - 9 AM",
+        "course": "CN",
+        "classRoom": "C25-B-307",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "9 AM - 10 AM",
+        "course": "DAA(L)",
+        "classRoom": "C25-B-202(L)",
+        "type": "lab",
+        "campus": ""
+      },
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "DAA(L)",
+        "classRoom": "C25-B-202(L)",
+        "type": "lab",
+        "campus": ""
+      }
+    ]
+  },
+  "CSCE-1": {
+    "monday": [
+      {
+        "timeSlot": "8 AM - 9 AM",
+        "course": "OB",
+        "classRoom": "C25-B-317",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "9 AM - 10 AM",
+        "course": "DAA(L)",
+        "classRoom": "C25-B-203(L)",
+        "type": "lab",
+        "campus": ""
+      },
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "DAA(L)",
+        "classRoom": "C25-B-203(L)",
+        "type": "lab",
+        "campus": ""
+      }
+    ],
+    "tuesday": [
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "OB",
+        "classRoom": "C25-B-319",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "11 AM - 12 AM",
+        "course": "DAA",
+        "classRoom": "C25-B-319",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "12 AM - 1 AM",
+        "course": "CN(L)",
+        "classRoom": "C25-B-203(L)",
+        "type": "lab",
+        "campus": ""
+      },
+      {
+        "timeSlot": "1 AM - 2 AM",
+        "course": "CN(L)",
+        "classRoom": "C25-B-203(L)",
+        "type": "lab",
+        "campus": ""
+      },
+      {
+        "timeSlot": "3.15 AM - 4.15 AM",
+        "course": "CN",
+        "classRoom": "C25-A-311",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "4.15 AM - 5.15 AM",
+        "course": "SE",
+        "classRoom": "C25-A-311",
+        "type": "theory",
+        "campus": ""
+      }
+    ],
+    "wednesday": [
+      {
+        "timeSlot": "8 AM - 9 AM",
+        "course": "DAA",
+        "classRoom": "C25-B-307",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "9 AM - 10 AM",
+        "course": "CN",
+        "classRoom": "C25-B-307",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "SE",
+        "classRoom": "C25-B-307",
+        "type": "theory",
+        "campus": ""
+      }
+    ],
+    "thursday": [
+      {
+        "timeSlot": "9 AM - 10 AM",
+        "course": "OB",
+        "classRoom": "C25-B-219",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "SE",
+        "classRoom": "C25-B-219",
+        "type": "theory",
+        "campus": ""
+      }
+    ],
+    "friday": [
+      {
+        "timeSlot": "8 AM - 9 AM",
+        "course": "CN",
+        "classRoom": "C25-B-109",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "9 AM - 10 AM",
+        "course": "DAA",
+        "classRoom": "C25-B-109",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "SE",
+        "classRoom": "C25-B-109",
+        "type": "theory",
+        "campus": ""
+      }
+    ]
+  },
+  "CSCE-2": {
+    "monday": [
+      {
+        "timeSlot": "8 AM - 9 AM",
+        "course": "CN",
+        "classRoom": "C25-B-109",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "9 AM - 10 AM",
+        "course": "SE",
+        "classRoom": "C25-B-109",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "OB",
+        "classRoom": "C25-B-109",
+        "type": "theory",
+        "campus": ""
+      }
+    ],
+    "tuesday": [
+      {
+        "timeSlot": "9 AM - 10 AM",
+        "course": "CN",
+        "classRoom": "C25-B-320",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "OB",
+        "classRoom": "C25-B-320",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "11 AM - 12 AM",
+        "course": "SE",
+        "classRoom": "C25-B-320",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "12 AM - 1 AM",
+        "course": "CN(L)",
+        "classRoom": "C25-B-204(L)",
+        "type": "lab",
+        "campus": ""
+      },
+      {
+        "timeSlot": "1 AM - 2 AM",
+        "course": "CN(L)",
+        "classRoom": "C25-B-204(L)",
+        "type": "lab",
+        "campus": ""
+      },
+      {
+        "timeSlot": "3.15 AM - 4.15 AM",
+        "course": "DAA",
+        "classRoom": "C25-B-108",
+        "type": "theory",
+        "campus": ""
+      }
+    ],
+    "wednesday": [
+      {
+        "timeSlot": "8 AM - 9 AM",
+        "course": "OB",
+        "classRoom": "C25-A-015",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "9 AM - 10 AM",
+        "course": "DAA(L)",
+        "classRoom": "C25-A-203(L)",
+        "type": "lab",
+        "campus": ""
+      },
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "DAA(L)",
+        "classRoom": "C25-A-203(L)",
+        "type": "lab",
+        "campus": ""
+      }
+    ],
+    "thursday": [
+      {
+        "timeSlot": "9 AM - 10 AM",
+        "course": "DAA",
+        "classRoom": "C25-B-301",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "SE",
+        "classRoom": "C25-B-301",
+        "type": "theory",
+        "campus": ""
+      }
+    ],
+    "friday": [
+      {
+        "timeSlot": "8 AM - 9 AM",
+        "course": "DAA",
+        "classRoom": "C25-B-110",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "9 AM - 10 AM",
+        "course": "CN",
+        "classRoom": "C25-B-110",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "SE",
+        "classRoom": "C25-B-110",
+        "type": "theory",
+        "campus": ""
+      }
+    ]
+  },
+  "CSCE-3": {
+    "monday": [
+      {
+        "timeSlot": "8 AM - 9 AM",
+        "course": "CN",
+        "classRoom": "C25-B-110",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "9 AM - 10 AM",
+        "course": "OB",
+        "classRoom": "C25-B-110",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "SE",
+        "classRoom": "C25-B-110",
+        "type": "theory",
+        "campus": ""
+      }
+    ],
+    "tuesday": [
+      {
+        "timeSlot": "11 AM - 12 AM",
+        "course": "OB",
+        "classRoom": "C25-B-322",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "12 AM - 1 AM",
+        "course": "DAA(L)",
+        "classRoom": "C25-B-212(L)",
+        "type": "lab",
+        "campus": ""
+      },
+      {
+        "timeSlot": "1 AM - 2 AM",
+        "course": "DAA(L)",
+        "classRoom": "C25-B-212(L)",
+        "type": "lab",
+        "campus": ""
+      },
+      {
+        "timeSlot": "3.15 AM - 4.15 AM",
+        "course": "DAA",
+        "classRoom": "C25-A-313",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "4.15 AM - 5.15 AM",
+        "course": "SE",
+        "classRoom": "C25-A-313",
+        "type": "theory",
+        "campus": ""
+      }
+    ],
+    "wednesday": [
+      {
+        "timeSlot": "8 AM - 9 AM",
+        "course": "DAA",
+        "classRoom": "C25-B-308",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "9 AM - 10 AM",
+        "course": "CN",
+        "classRoom": "C25-B-308",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "SE",
+        "classRoom": "C25-B-308",
+        "type": "theory",
+        "campus": ""
+      }
+    ],
+    "thursday": [
+      {
+        "timeSlot": "8 AM - 9 AM",
+        "course": "OB",
+        "classRoom": "C25-B-306",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "9 AM - 10 AM",
+        "course": "SE",
+        "classRoom": "C25-B-306",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "CN",
+        "classRoom": "C25-B-306",
+        "type": "theory",
+        "campus": ""
+      }
+    ],
+    "friday": [
+      {
+        "timeSlot": "8 AM - 9 AM",
+        "course": "DAA",
+        "classRoom": "C25-B-308",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "9 AM - 10 AM",
+        "course": "CN(L)",
+        "classRoom": "C25-B-203(L)",
+        "type": "lab",
+        "campus": ""
+      },
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "CN(L)",
+        "classRoom": "C25-B-203(L)",
+        "type": "lab",
+        "campus": ""
+      }
+    ]
+  },
+  "CSSE-1": {
+    "monday": [
+      {
+        "timeSlot": "8 AM - 9 AM",
+        "course": "DAA",
+        "classRoom": "C25-A-106",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "9 AM - 10 AM",
+        "course": "DAA(L)",
+        "classRoom": "C25-A-004(L)",
+        "type": "lab",
+        "campus": ""
+      },
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "DAA(L)",
+        "classRoom": "C25-A-004(L)",
+        "type": "lab",
+        "campus": ""
+      }
+    ],
+    "tuesday": [
+      {
+        "timeSlot": "11 AM - 12 AM",
+        "course": "CN",
+        "classRoom": "C25-A-110",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "12 AM - 1 AM",
+        "course": "CN(L)",
+        "classRoom": "C25-A-004(L)",
+        "type": "lab",
+        "campus": ""
+      },
+      {
+        "timeSlot": "1 AM - 2 AM",
+        "course": "CN(L)",
+        "classRoom": "C25-A-004(L)",
+        "type": "lab",
+        "campus": ""
+      },
+      {
+        "timeSlot": "3.15 AM - 4.15 AM",
+        "course": "SE",
+        "classRoom": "C25-A-001",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "4.15 AM - 5.15 AM",
+        "course": "DAA",
+        "classRoom": "C25-A-001",
+        "type": "theory",
+        "campus": ""
+      }
+    ],
+    "wednesday": [
+      {
+        "timeSlot": "8 AM - 9 AM",
+        "course": "SE",
+        "classRoom": "C25-A-001",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "9 AM - 10 AM",
+        "course": "OB",
+        "classRoom": "C25-A-001",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "CN",
+        "classRoom": "C25-A-001",
+        "type": "theory",
+        "campus": ""
+      }
+    ],
+    "thursday": [
+      {
+        "timeSlot": "8 AM - 9 AM",
+        "course": "OB",
+        "classRoom": "C25-A-001",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "9 AM - 10 AM",
+        "course": "CN",
+        "classRoom": "C25-A-001",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "SE",
+        "classRoom": "C25-A-001",
+        "type": "theory",
+        "campus": ""
+      }
+    ],
+    "friday": [
+      {
+        "timeSlot": "8 AM - 9 AM",
+        "course": "DAA",
+        "classRoom": "C25-A-001",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "9 AM - 10 AM",
+        "course": "OB",
+        "classRoom": "C25-A-001",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "SE",
+        "classRoom": "C25-A-001",
+        "type": "theory",
+        "campus": ""
+      }
+    ]
+  },
+  "CSSE-2": {
+    "monday": [
+      {
+        "timeSlot": "8 AM - 9 AM",
+        "course": "DAA",
+        "classRoom": "C25-A-001",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "9 AM - 10 AM",
+        "course": "OB",
+        "classRoom": "C25-A-001",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "SE",
+        "classRoom": "C25-A-001",
+        "type": "theory",
+        "campus": ""
+      }
+    ],
+    "tuesday": [
+      {
+        "timeSlot": "11 AM - 12 AM",
+        "course": "SE",
+        "classRoom": "C25-B-219",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "12 AM - 1 AM",
+        "course": "CN",
+        "classRoom": "C25-B-219",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "1 AM - 2 AM",
+        "course": "OB",
+        "classRoom": "C25-B-219",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "3.15 AM - 4.15 AM",
+        "course": "CN(L)",
+        "classRoom": "C25-A-004(L)",
+        "type": "lab",
+        "campus": ""
+      },
+      {
+        "timeSlot": "4.15 AM - 5.15 AM",
+        "course": "CN(L)",
+        "classRoom": "C25-A-004(L)",
+        "type": "lab",
+        "campus": ""
+      }
+    ],
+    "wednesday": [
+      {
+        "timeSlot": "8 AM - 9 AM",
+        "course": "CN",
+        "classRoom": "C25-A-008",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "9 AM - 10 AM",
+        "course": "DAA(L)",
+        "classRoom": "C25-A-004(L)",
+        "type": "lab",
+        "campus": ""
+      },
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "DAA(L)",
+        "classRoom": "C25-A-004(L)",
+        "type": "lab",
+        "campus": ""
+      }
+    ],
+    "thursday": [
+      {
+        "timeSlot": "8 AM - 9 AM",
+        "course": "SE",
+        "classRoom": "C25-A-006",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "9 AM - 10 AM",
+        "course": "DAA",
+        "classRoom": "C25-A-006",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "CN",
+        "classRoom": "C25-A-006",
+        "type": "theory",
+        "campus": ""
+      }
+    ],
+    "friday": [
+      {
+        "timeSlot": "8 AM - 9 AM",
+        "course": "DAA",
+        "classRoom": "C25-A-006",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "9 AM - 10 AM",
+        "course": "SE",
+        "classRoom": "C25-A-006",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "OB",
+        "classRoom": "C25-A-006",
+        "type": "theory",
+        "campus": ""
+      }
+    ]
+  },
+  "CSSE-3": {
+    "monday": [
+      {
+        "timeSlot": "8 AM - 9 AM",
+        "course": "DAA",
+        "classRoom": "C25-A-006",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "9 AM - 10 AM",
+        "course": "OB",
+        "classRoom": "C25-A-006",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "SE",
+        "classRoom": "C25-A-006",
+        "type": "theory",
+        "campus": ""
+      }
+    ],
+    "tuesday": [
+      {
+        "timeSlot": "11 AM - 12 AM",
+        "course": "CN",
+        "classRoom": "C25-A-106",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "12 AM - 1 AM",
+        "course": "DAA(L)",
+        "classRoom": "C25-A-003(L)",
+        "type": "lab",
+        "campus": ""
+      },
+      {
+        "timeSlot": "1 AM - 2 AM",
+        "course": "DAA(L)",
+        "classRoom": "C25-A-003(L)",
+        "type": "lab",
+        "campus": ""
+      },
+      {
+        "timeSlot": "3.15 AM - 4.15 AM",
+        "course": "SE",
+        "classRoom": "C25-A-006",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "4.15 AM - 5.15 AM",
+        "course": "DAA",
+        "classRoom": "C25-A-006",
+        "type": "theory",
+        "campus": ""
+      }
+    ],
+    "wednesday": [
+      {
+        "timeSlot": "8 AM - 9 AM",
+        "course": "OB",
+        "classRoom": "C25-A-006",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "9 AM - 10 AM",
+        "course": "CN",
+        "classRoom": "C25-A-006",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "DAA",
+        "classRoom": "C25-A-006",
+        "type": "theory",
+        "campus": ""
+      }
+    ],
+    "thursday": [
+      {
+        "timeSlot": "8 AM - 9 AM",
+        "course": "CN",
+        "classRoom": "C25-A-007",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "9 AM - 10 AM",
+        "course": "OB",
+        "classRoom": "C25-A-007",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "SE",
+        "classRoom": "C25-A-007",
+        "type": "theory",
+        "campus": ""
+      }
+    ],
+    "friday": [
+      {
+        "timeSlot": "8 AM - 9 AM",
+        "course": "SE",
+        "classRoom": "C25-A-010",
+        "type": "theory",
+        "campus": ""
+      },
+      {
+        "timeSlot": "9 AM - 10 AM",
+        "course": "CN(L)",
+        "classRoom": "C25-A-004(L)",
+        "type": "lab",
+        "campus": ""
+      },
+      {
+        "timeSlot": "10 AM - 11 AM",
+        "course": "CN(L)",
+        "classRoom": "C25-A-004(L)",
+        "type": "lab",
+        "campus": ""
+      }
+    ]
+  }
+}
